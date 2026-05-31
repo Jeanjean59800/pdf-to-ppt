@@ -1,0 +1,37 @@
+Je t'envoie un PDF source. Je veux que tu crees un vrai PowerPoint de reference a partir de ce document.
+
+Objectif:
+- produire une presentation PowerPoint propre, claire, professionnelle et coherente
+- transformer le PDF en deck de qualite, pas en simple resume brut
+- construire un fil narratif logique du debut a la fin
+- rester fidele au contenu du PDF, sans inventer de resultats
+
+Consignes:
+- cree directement un PowerPoint
+- vise un rendu propre et credible, comparable a une presentation de travail serieuse
+- fais entre 8 et 12 slides de contenu, plus si necessaire une slide de titre et une slide de conclusion
+- utilise des titres courts et nets
+- garde peu de texte par slide
+- hierarchise bien l'information
+- si le PDF contient des figures, schemas, tableaux ou graphiques utiles, reutilise-les quand c'est pertinent
+- si certaines informations doivent etre synthetisees visuellement, cree une slide avec une structure adaptee
+- evite les repetitions et les slides qui n'apportent rien
+- reformule proprement au lieu de recopier le PDF
+- si le document est technique, rends-le intelligible pour une audience serieuse mais pas forcement specialiste
+
+Ce que j'attends:
+- un PowerPoint finalise
+- pas seulement un plan
+- pas seulement une liste de slides
+- un vrai deck exploitable comme sortie de reference
+
+Priorites:
+1. qualite du recit
+2. clarte des slides
+3. fidelite au document
+4. bon usage des visuels
+5. rendu global propre et homogene
+
+La sortie attendue est un fichier PowerPoint, pas une reponse textuelle decrivant les slides.
+
+Fais-en une version de reference "haut de gamme mais sobre", pour que je puisse comparer ce resultat a un pipeline automatise PDF -> PPT.

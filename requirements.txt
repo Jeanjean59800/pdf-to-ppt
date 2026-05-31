@@ -1,0 +1,8 @@
+PyMuPDF
+opencv-python
+python-dotenv
+python-pptx
+google-generativeai
+faiss-cpu
+sentence-transformers
+matplotlib

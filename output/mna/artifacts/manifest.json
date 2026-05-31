@@ -1,0 +1,81 @@
+{
+  "pdf": "C:\\Users\\jeanl\\pdf_to_ppt\\clean_ppt_pipeline_demo\\data\\mna_test_pdf.pdf",
+  "raw_text": "C:\\Users\\jeanl\\pdf_to_ppt\\clean_ppt_pipeline_demo\\output\\final_runs\\local_text_fal_images_rag_check__mna_test_pdf\\artifacts\\text\\mna_test_pdf_extracted_text\\mna_test_pdf_text.txt",
+  "rendered_pages": [
+    "C:\\Users\\jeanl\\pdf_to_ppt\\clean_ppt_pipeline_demo\\output\\final_runs\\local_text_fal_images_rag_check__mna_test_pdf\\artifacts\\rendered_pages\\mna_test_pdf_rendered_pages\\page_1.png",
+    "C:\\Users\\jeanl\\pdf_to_ppt\\clean_ppt_pipeline_demo\\output\\final_runs\\local_text_fal_images_rag_check__mna_test_pdf\\artifacts\\rendered_pages\\mna_test_pdf_rendered_pages\\page_2.png",
+    "C:\\Users\\jeanl\\pdf_to_ppt\\clean_ppt_pipeline_demo\\output\\final_runs\\local_text_fal_images_rag_check__mna_test_pdf\\artifacts\\rendered_pages\\mna_test_pdf_rendered_pages\\page_3.png",
+    "C:\\Users\\jeanl\\pdf_to_ppt\\clean_ppt_pipeline_demo\\output\\final_runs\\local_text_fal_images_rag_check__mna_test_pdf\\artifacts\\rendered_pages\\mna_test_pdf_rendered_pages\\page_4.png",
+    "C:\\Users\\jeanl\\pdf_to_ppt\\clean_ppt_pipeline_demo\\output\\final_runs\\local_text_fal_images_rag_check__mna_test_pdf\\artifacts\\rendered_pages\\mna_test_pdf_rendered_pages\\page_5.png",
+    "C:\\Users\\jeanl\\pdf_to_ppt\\clean_ppt_pipeline_demo\\output\\final_runs\\local_text_fal_images_rag_check__mna_test_pdf\\artifacts\\rendered_pages\\mna_test_pdf_rendered_pages\\page_6.png",
+    "C:\\Users\\jeanl\\pdf_to_ppt\\clean_ppt_pipeline_demo\\output\\final_runs\\local_text_fal_images_rag_check__mna_test_pdf\\artifacts\\rendered_pages\\mna_test_pdf_rendered_pages\\page_7.png",
+    "C:\\Users\\jeanl\\pdf_to_ppt\\clean_ppt_pipeline_demo\\output\\final_runs\\local_text_fal_images_rag_check__mna_test_pdf\\artifacts\\rendered_pages\\mna_test_pdf_rendered_pages\\page_8.png",
+    "C:\\Users\\jeanl\\pdf_to_ppt\\clean_ppt_pipeline_demo\\output\\final_runs\\local_text_fal_images_rag_check__mna_test_pdf\\artifacts\\rendered_pages\\mna_test_pdf_rendered_pages\\page_9.png",
+    "C:\\Users\\jeanl\\pdf_to_ppt\\clean_ppt_pipeline_demo\\output\\final_runs\\local_text_fal_images_rag_check__mna_test_pdf\\artifacts\\rendered_pages\\mna_test_pdf_rendered_pages\\page_10.png",
+    "C:\\Users\\jeanl\\pdf_to_ppt\\clean_ppt_pipeline_demo\\output\\final_runs\\local_text_fal_images_rag_check__mna_test_pdf\\artifacts\\rendered_pages\\mna_test_pdf_rendered_pages\\page_11.png",
+    "C:\\Users\\jeanl\\pdf_to_ppt\\clean_ppt_pipeline_demo\\output\\final_runs\\local_text_fal_images_rag_check__mna_test_pdf\\artifacts\\rendered_pages\\mna_test_pdf_rendered_pages\\page_12.png",
+    "C:\\Users\\jeanl\\pdf_to_ppt\\clean_ppt_pipeline_demo\\output\\final_runs\\local_text_fal_images_rag_check__mna_test_pdf\\artifacts\\rendered_pages\\mna_test_pdf_rendered_pages\\page_13.png",
+    "C:\\Users\\jeanl\\pdf_to_ppt\\clean_ppt_pipeline_demo\\output\\final_runs\\local_text_fal_images_rag_check__mna_test_pdf\\artifacts\\rendered_pages\\mna_test_pdf_rendered_pages\\page_14.png",
+    "C:\\Users\\jeanl\\pdf_to_ppt\\clean_ppt_pipeline_demo\\output\\final_runs\\local_text_fal_images_rag_check__mna_test_pdf\\artifacts\\rendered_pages\\mna_test_pdf_rendered_pages\\page_15.png",
+    "C:\\Users\\jeanl\\pdf_to_ppt\\clean_ppt_pipeline_demo\\output\\final_runs\\local_text_fal_images_rag_check__mna_test_pdf\\artifacts\\rendered_pages\\mna_test_pdf_rendered_pages\\page_16.png",
+    "C:\\Users\\jeanl\\pdf_to_ppt\\clean_ppt_pipeline_demo\\output\\final_runs\\local_text_fal_images_rag_check__mna_test_pdf\\artifacts\\rendered_pages\\mna_test_pdf_rendered_pages\\page_17.png",
+    "C:\\Users\\jeanl\\pdf_to_ppt\\clean_ppt_pipeline_demo\\output\\final_runs\\local_text_fal_images_rag_check__mna_test_pdf\\artifacts\\rendered_pages\\mna_test_pdf_rendered_pages\\page_18.png",
+    "C:\\Users\\jeanl\\pdf_to_ppt\\clean_ppt_pipeline_demo\\output\\final_runs\\local_text_fal_images_rag_check__mna_test_pdf\\artifacts\\rendered_pages\\mna_test_pdf_rendered_pages\\page_19.png",
+    "C:\\Users\\jeanl\\pdf_to_ppt\\clean_ppt_pipeline_demo\\output\\final_runs\\local_text_fal_images_rag_check__mna_test_pdf\\artifacts\\rendered_pages\\mna_test_pdf_rendered_pages\\page_20.png",
+    "C:\\Users\\jeanl\\pdf_to_ppt\\clean_ppt_pipeline_demo\\output\\final_runs\\local_text_fal_images_rag_check__mna_test_pdf\\artifacts\\rendered_pages\\mna_test_pdf_rendered_pages\\page_21.png",
+    "C:\\Users\\jeanl\\pdf_to_ppt\\clean_ppt_pipeline_demo\\output\\final_runs\\local_text_fal_images_rag_check__mna_test_pdf\\artifacts\\rendered_pages\\mna_test_pdf_rendered_pages\\page_22.png",
+    "C:\\Users\\jeanl\\pdf_to_ppt\\clean_ppt_pipeline_demo\\output\\final_runs\\local_text_fal_images_rag_check__mna_test_pdf\\artifacts\\rendered_pages\\mna_test_pdf_rendered_pages\\page_23.png",
+    "C:\\Users\\jeanl\\pdf_to_ppt\\clean_ppt_pipeline_demo\\output\\final_runs\\local_text_fal_images_rag_check__mna_test_pdf\\artifacts\\rendered_pages\\mna_test_pdf_rendered_pages\\page_24.png",
+    "C:\\Users\\jeanl\\pdf_to_ppt\\clean_ppt_pipeline_demo\\output\\final_runs\\local_text_fal_images_rag_check__mna_test_pdf\\artifacts\\rendered_pages\\mna_test_pdf_rendered_pages\\page_25.png",
+    "C:\\Users\\jeanl\\pdf_to_ppt\\clean_ppt_pipeline_demo\\output\\final_runs\\local_text_fal_images_rag_check__mna_test_pdf\\artifacts\\rendered_pages\\mna_test_pdf_rendered_pages\\page_26.png",
+    "C:\\Users\\jeanl\\pdf_to_ppt\\clean_ppt_pipeline_demo\\output\\final_runs\\local_text_fal_images_rag_check__mna_test_pdf\\artifacts\\rendered_pages\\mna_test_pdf_rendered_pages\\page_27.png",
+    "C:\\Users\\jeanl\\pdf_to_ppt\\clean_ppt_pipeline_demo\\output\\final_runs\\local_text_fal_images_rag_check__mna_test_pdf\\artifacts\\rendered_pages\\mna_test_pdf_rendered_pages\\page_28.png",
+    "C:\\Users\\jeanl\\pdf_to_ppt\\clean_ppt_pipeline_demo\\output\\final_runs\\local_text_fal_images_rag_check__mna_test_pdf\\artifacts\\rendered_pages\\mna_test_pdf_rendered_pages\\page_29.png",
+    "C:\\Users\\jeanl\\pdf_to_ppt\\clean_ppt_pipeline_demo\\output\\final_runs\\local_text_fal_images_rag_check__mna_test_pdf\\artifacts\\rendered_pages\\mna_test_pdf_rendered_pages\\page_30.png",
+    "C:\\Users\\jeanl\\pdf_to_ppt\\clean_ppt_pipeline_demo\\output\\final_runs\\local_text_fal_images_rag_check__mna_test_pdf\\artifacts\\rendered_pages\\mna_test_pdf_rendered_pages\\page_31.png",
+    "C:\\Users\\jeanl\\pdf_to_ppt\\clean_ppt_pipeline_demo\\output\\final_runs\\local_text_fal_images_rag_check__mna_test_pdf\\artifacts\\rendered_pages\\mna_test_pdf_rendered_pages\\page_32.png",
+    "C:\\Users\\jeanl\\pdf_to_ppt\\clean_ppt_pipeline_demo\\output\\final_runs\\local_text_fal_images_rag_check__mna_test_pdf\\artifacts\\rendered_pages\\mna_test_pdf_rendered_pages\\page_33.png",
+    "C:\\Users\\jeanl\\pdf_to_ppt\\clean_ppt_pipeline_demo\\output\\final_runs\\local_text_fal_images_rag_check__mna_test_pdf\\artifacts\\rendered_pages\\mna_test_pdf_rendered_pages\\page_34.png",
+    "C:\\Users\\jeanl\\pdf_to_ppt\\clean_ppt_pipeline_demo\\output\\final_runs\\local_text_fal_images_rag_check__mna_test_pdf\\artifacts\\rendered_pages\\mna_test_pdf_rendered_pages\\page_35.png",
+    "C:\\Users\\jeanl\\pdf_to_ppt\\clean_ppt_pipeline_demo\\output\\final_runs\\local_text_fal_images_rag_check__mna_test_pdf\\artifacts\\rendered_pages\\mna_test_pdf_rendered_pages\\page_36.png",
+    "C:\\Users\\jeanl\\pdf_to_ppt\\clean_ppt_pipeline_demo\\output\\final_runs\\local_text_fal_images_rag_check__mna_test_pdf\\artifacts\\rendered_pages\\mna_test_pdf_rendered_pages\\page_37.png",
+    "C:\\Users\\jeanl\\pdf_to_ppt\\clean_ppt_pipeline_demo\\output\\final_runs\\local_text_fal_images_rag_check__mna_test_pdf\\artifacts\\rendered_pages\\mna_test_pdf_rendered_pages\\page_38.png",
+    "C:\\Users\\jeanl\\pdf_to_ppt\\clean_ppt_pipeline_demo\\output\\final_runs\\local_text_fal_images_rag_check__mna_test_pdf\\artifacts\\rendered_pages\\mna_test_pdf_rendered_pages\\page_39.png",
+    "C:\\Users\\jeanl\\pdf_to_ppt\\clean_ppt_pipeline_demo\\output\\final_runs\\local_text_fal_images_rag_check__mna_test_pdf\\artifacts\\rendered_pages\\mna_test_pdf_rendered_pages\\page_40.png",
+    "C:\\Users\\jeanl\\pdf_to_ppt\\clean_ppt_pipeline_demo\\output\\final_runs\\local_text_fal_images_rag_check__mna_test_pdf\\artifacts\\rendered_pages\\mna_test_pdf_rendered_pages\\page_41.png",
+    "C:\\Users\\jeanl\\pdf_to_ppt\\clean_ppt_pipeline_demo\\output\\final_runs\\local_text_fal_images_rag_check__mna_test_pdf\\artifacts\\rendered_pages\\mna_test_pdf_rendered_pages\\page_42.png",
+    "C:\\Users\\jeanl\\pdf_to_ppt\\clean_ppt_pipeline_demo\\output\\final_runs\\local_text_fal_images_rag_check__mna_test_pdf\\artifacts\\rendered_pages\\mna_test_pdf_rendered_pages\\page_43.png",
+    "C:\\Users\\jeanl\\pdf_to_ppt\\clean_ppt_pipeline_demo\\output\\final_runs\\local_text_fal_images_rag_check__mna_test_pdf\\artifacts\\rendered_pages\\mna_test_pdf_rendered_pages\\page_44.png",
+    "C:\\Users\\jeanl\\pdf_to_ppt\\clean_ppt_pipeline_demo\\output\\final_runs\\local_text_fal_images_rag_check__mna_test_pdf\\artifacts\\rendered_pages\\mna_test_pdf_rendered_pages\\page_45.png",
+    "C:\\Users\\jeanl\\pdf_to_ppt\\clean_ppt_pipeline_demo\\output\\final_runs\\local_text_fal_images_rag_check__mna_test_pdf\\artifacts\\rendered_pages\\mna_test_pdf_rendered_pages\\page_46.png",
+    "C:\\Users\\jeanl\\pdf_to_ppt\\clean_ppt_pipeline_demo\\output\\final_runs\\local_text_fal_images_rag_check__mna_test_pdf\\artifacts\\rendered_pages\\mna_test_pdf_rendered_pages\\page_47.png",
+    "C:\\Users\\jeanl\\pdf_to_ppt\\clean_ppt_pipeline_demo\\output\\final_runs\\local_text_fal_images_rag_check__mna_test_pdf\\artifacts\\rendered_pages\\mna_test_pdf_rendered_pages\\page_48.png",
+    "C:\\Users\\jeanl\\pdf_to_ppt\\clean_ppt_pipeline_demo\\output\\final_runs\\local_text_fal_images_rag_check__mna_test_pdf\\artifacts\\rendered_pages\\mna_test_pdf_rendered_pages\\page_49.png",
+    "C:\\Users\\jeanl\\pdf_to_ppt\\clean_ppt_pipeline_demo\\output\\final_runs\\local_text_fal_images_rag_check__mna_test_pdf\\artifacts\\rendered_pages\\mna_test_pdf_rendered_pages\\page_50.png"
+  ],
+  "candidate_visuals": [
+    {
+      "path": "C:\\Users\\jeanl\\pdf_to_ppt\\clean_ppt_pipeline_demo\\output\\final_runs\\local_text_fal_images_rag_check__mna_test_pdf\\artifacts\\candidate_visuals\\mna_test_pdf_crops\\page_13_crop_68.png",
+      "source": "page 13",
+      "description": "Candidate visual from page 13 (86.5 KB). Needs semantic labeling."
+    },
+    {
+      "path": "C:\\Users\\jeanl\\pdf_to_ppt\\clean_ppt_pipeline_demo\\output\\final_runs\\local_text_fal_images_rag_check__mna_test_pdf\\artifacts\\candidate_visuals\\mna_test_pdf_crops\\page_28_crop_19.png",
+      "source": "page 28",
+      "description": "Candidate visual from page 28 (9.7 KB). Needs semantic labeling."
+    },
+    {
+      "path": "C:\\Users\\jeanl\\pdf_to_ppt\\clean_ppt_pipeline_demo\\output\\final_runs\\local_text_fal_images_rag_check__mna_test_pdf\\artifacts\\candidate_visuals\\mna_test_pdf_crops\\page_31_crop_104.png",
+      "source": "page 31",
+      "description": "Candidate visual from page 31 (37.2 KB). Needs semantic labeling."
+    },
+    {
+      "path": "C:\\Users\\jeanl\\pdf_to_ppt\\clean_ppt_pipeline_demo\\output\\final_runs\\local_text_fal_images_rag_check__mna_test_pdf\\artifacts\\candidate_visuals\\mna_test_pdf_crops\\page_33_crop_329.png",
+      "source": "page 33",
+      "description": "Candidate visual from page 33 (29.2 KB). Needs semantic labeling."
+    }
+  ],
+  "generated_plots": [],
+  "slide_plan": "C:\\Users\\jeanl\\pdf_to_ppt\\clean_ppt_pipeline_demo\\output\\final_runs\\local_text_fal_images_rag_check__mna_test_pdf\\artifacts\\analysis\\slide_plan.json",
+  "output_pptx": "C:\\Users\\jeanl\\pdf_to_ppt\\clean_ppt_pipeline_demo\\output\\final_runs\\local_text_fal_images_rag_check__mna_test_pdf\\pptx\\generated_presentation_skeleton.pptx"
+}

@@ -1,0 +1,75 @@
+{
+  "thesis": "This presentation distills the core concepts of the Edinburgh Business School Mergers and Acquisitions course, guiding learners through the course structure, modelling principles, process development, drivers of M&A activity, and practical resources for application.",
+  "slides": [
+    {
+      "title": "Course Overview",
+      "layout": "text_only",
+      "content_md": "## Course\n- **Mergers and Acquisitions** \u2013 an integrated text covering strategy, finance, and implementation.\n\n## Authors\n- Prof. Alexander Roberts\n- Dr. William Wallace\n- Dr. Peter Moles\n\n## Philosophy\n- Multidisciplinary approach: from strategic rationale to execution.",
+      "visual": "text only",
+      "section_id": "sec_1"
+    },
+    {
+      "title": "Online Resources & Updates",
+      "layout": "text_image_right",
+      "content_md": "## Course Website\n- http://coursewebsites.ebsglobal.net/ \u2013 latest version, past exams, Profiler software.\n\n## Updates\n- Version number on front page; changes reflected on website.\n\n## Contact\n- comments@ebs.hw.ac.uk for suggestions.\n## Coverage additions\n- course context: The financial issues are addressed by a financial special- ist and adopt a slightly different format and structure to the rest of the course",
+      "visual": "generated illustration",
+      "section_id": "sec_1"
+    },
+    {
+      "title": "What is a Model in M&A?",
+      "layout": "text_only",
+      "content_md": "## Definition\n- **Model**: *a description, comparison or analogy used to describe that which cannot be seen*.\n- **Process**: *a series of actions or operations in order to achieve a defined objective*.\n\n## Process Model\n- A process model of M&A is a **description or analogy** of the actions and operations involved in achieving a mergers\u2011and\u2011acquisitions system.\n- It serves as a **map or guide** for developing the outcome of the model.\n- The model is **generic**, making it relevant across a range of applications.",
+      "visual": "text only",
+      "section_id": "sec_2"
+    },
+    {
+      "title": "Why Process Models Matter in M&A",
+      "layout": "text_image_right",
+      "content_md": "## Purpose\n- Mergers and acquisitions impose a **considerable degree of change** on an organisation.\n- Properly designed procedures and processes are **imperative**.\n\n## Implementation Focus\n- **Modules 7 to 10** consider the implementation process, using project management as a tool for managing change.\n- These modules cover the **preparation of an implementation plan** and its execution through completion.\n\n## Benefits\n- Process models provide a **general representation** of what must be done to achieve a specified outcome.\n- They are **generic** yet can be tailored for specific applications, guiding teams through complex M&A activities.\n## Coverage additions\n- model definition: Philosophy This text seeks to establish a process model for mergers and acquisitions\n- process model purpose: \uf0b7 Implementation and integration Modules 7 to 10 consider the implementation process particularly in the context of using project management as a tool for managing change (see the strategic focus wheel discussion in the preface)",
+      "visual": "extracted figure",
+      "section_id": "sec_2"
+    },
+    {
+      "title": "Generic M&A Process Model: The Blueprint",
+      "layout": "text_image_right",
+      "content_md": "## What a Generic Model Looks Like\n- **Stages & Phases**: A series of actions or operations to achieve a defined objective.\n- **Analogy**: The model is a description of the action and operations involved in achieving a mergers and acquisitions system.\n- **Map/Guide**: A user should be able to look at the process model and use it as a kind of map or guide to assist in developing the outcome.\n- **General Representation**: Useful because it shows what has to be done to achieve a specified outcome and is relevant across many applications.",
+      "visual": "extracted figure",
+      "section_id": "sec_3"
+    },
+    {
+      "title": "Tuning the Model with Company Data",
+      "layout": "chart_focus",
+      "content_md": "## From Blueprint to Actionable Plan\n- **Data\u2011Driven Adjustment**: For specific application, the process model has to be tuned with detailed company data and information.\n- **Implementation Modules**: Modules 7\u201110 focus on preparing an implementation plan and managing it through completion.\n- **Project Management**: Use project management as a tool for managing change, ensuring the tuned model translates into real actions.\n- **Outcome**: A customized, actionable plan that reflects the company\u2019s unique context while retaining the proven generic structure.\n## Coverage additions\n- generic stages: The idea of a process model is to represent the stages and phases involved in a task",
+      "visual": "extracted figure",
+      "section_id": "sec_3"
+    },
+    {
+      "title": "Drivers of M&A Activity",
+      "layout": "text_image_right",
+      "content_md": "M&A decisions are shaped by a mix of strategic, market, and operational forces.\n\n- **National consolidation**: compatible firms in the same region.\n- **Diversification risk**: balancing a portfolio, yet often does not reduce risk.\n- **Industry pressures**: sector\u2011specific consolidation (e.g., oil, banking).\n- **Capacity reduction**: excess production versus demand.\n- **Stock\u2011market dynamics**: booms make share\u2011based deals easier; falls lower target values.\n- **Globalisation**: IT reduces geographic barriers, encouraging cross\u2011border deals.",
+      "visual": "extracted figure",
+      "section_id": "sec_4"
+    },
+    {
+      "title": "Strategic Motives & Market Conditions",
+      "layout": "chart_focus",
+      "content_md": "Beyond the drivers, firms often target specific skills and resources.\n\n- **Skill acquisition**: small firms with high\u2011value expertise are attractive.\n- **Risk profile**: diversification may not lower risk.\n- **Industry pressures**: mergers common in high\u2011growth sectors.\n- **Capacity issues**: merging to align supply with demand.",
+      "visual": "extracted figure",
+      "section_id": "sec_4"
+    },
+    {
+      "title": "Practical Resources & Application",
+      "layout": "text_only",
+      "content_md": "## Key points\n- In addition to this printed course text, you should also have access to the course website in this subject, which will provide you with more learning content, the Profiler software and past examination questions and answers\n- The content of this course text is updated from time to time, and all changes are reflected in the version of the text that appears on the accompanying website at http://coursewebsites.ebsglobal.net/\n- Most updates are minor, and examination questions will avoid any new or significantly altered material for two years following publication of the relevant material on the website\n- Focus block: website resources, profiler software",
+      "visual": "text only",
+      "section_id": "sec_5"
+    },
+    {
+      "title": "Practical Resources & Application Details",
+      "layout": "text_only",
+      "content_md": "## Why it matters\n- Highlight the website, Profiler software, exam materials, and update procedures.\n- Transition: Finally, we connect theory to practice with the course\u2019s supporting tools.\n- You can check the version of the course text via the version release number to be found on the front page of the text, and compare this to the version number of and Industry DVD digital versatile disc EAC estimate at completion EAIS enterprise application integration system EBIT earnings before interest and tax paid EBITDA earnings before interest, tax, depreciation and allowances EBS Edinburgh Business School ECC European Competition Commission ECTC estimated cost to complete EPS earnings per share ESOP employee stock ownership plan ETTC estimated time to completion EU European Union EV expected value EVA earned value analysis FARM functional area recovery management FCF free cash flow HR human resources IES intelligent electronic systems IMS information management system IR inherent risk IRG implementation review group IRR internal rate of return IT information technology KEI key environmental indicator KPI key performance indicator LPE London Petroleum Exchange LSE London Stock Exchange M&A mergers and acquisitions MACRS modified accelerated cost recovery system ME monetary error MIPM merger implementation project manager MIS merger integr QUERY: learning content updates version release number --- Page 1 --- MQ-A2-engb 1/2016 (1020) Mergers and Acquisitions Professor Alexander Roberts Dr William Wallace Dr Peter Moles --- Page 2 --- This course text is part of the learning content for this Edinburgh Business School course\n- You can check the version of the course text via the version release number to be found on the front page of the text, and compare this to the version number of ept of Implementation 7/10 7.5 Identifying Synergies 7/14 7.6 The Implementation Process 7/21 7.7 Implementation Risk Management 7/39 7.8 The Concept of Disintegration and Reintegration 7/52 7.9 Managerial Levers 7/54 7.10 Transformation Tools 7/57 Review Questions 7/73 Module 8 Project Management as a Tool for Managing the Implementation Process 8/1 8.1 Introduction 8/1 8.2 Some Common Questions about Project Management 8/3 8.3 Some Common Misconceptions about Project Management 8/6 8.4 The Overall Implementation Process 8/8 8.5 Project Management 8/17 8.6 Project Management as a Tool for Managing the Overall Acquisition or Merger Process 8/50 Learning Summary 8/69 Review Questions 8/84 Module 9 Developing the Implementation Plan 9/1 9.1 Introduction 9/1 9.2 Some Common Questions about Implementation Planning 9/3 9.3 Some Common Misconceptions about Implementation Planning 9/6 9.4 The Concept of the Implementation Strategic Project Plan 9/9 9.5 Project Aims and Objectives and Prelimin\n- Coverage focus: exam questions, content updates",
+      "visual": "text only",
+      "section_id": "sec_5"
+    }
+  ]
+}

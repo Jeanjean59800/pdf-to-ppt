@@ -1,0 +1,2508 @@
+
+--- Page 1 ---
+ 
+ 
+MQ-A2-engb 1/2016 (1020) 
+ 
+Mergers and 
+Acquisitions 
+Professor Alexander Roberts 
+Dr William Wallace 
+Dr Peter Moles 
+
+--- Page 2 ---
+ 
+This course text is part of the learning content for this Edinburgh Business School course. 
+In addition to this printed course text, you should also have access to the course website in this subject, 
+which will provide you with more learning content, the Profiler software and past examination questions 
+and answers. 
+The content of this course text is updated from time to time, and all changes are reflected in the version 
+of the text that appears on the accompanying website at http://coursewebsites.ebsglobal.net/. 
+Most updates are minor, and examination questions will avoid any new or significantly altered material for 
+two years following publication of the relevant material on the website. 
+You can check the version of the course text via the version release number to be found on the front 
+page of the text, and compare this to the version number of the latest PDF version of the text on the 
+website. 
+If you are studying this course as part of a tutored programme, you should contact your Centre for 
+further information on any changes. 
+Full terms and conditions that apply to students on any of the Edinburgh Business School courses are 
+available on the website www.ebsglobal.net, and should have been notified to you either by Edinburgh 
+Business School or by the centre or regional partner through whom you purchased your course. If this is 
+not the case, please contact Edinburgh Business School at the address below: 
+  
+Edinburgh Business School 
+Heriot-Watt University 
+ 
+Edinburgh 
+ 
+EH14 4AS 
+ 
+United Kingdom 
+  
+Tel  + 44 (0) 131 451 3090 
+ 
+Fax  + 44 (0) 131 451 3002 
+ 
+Email  enquiries@ebs.hw.ac.uk 
+ 
+Website  www.ebsglobal.net 
+ 
+The courses are updated on a regular basis to take account of errors, omissions and recent 
+developments. If you'd like to suggest a change to this course, please contact 
+us: comments@ebs.hw.ac.uk. 
+
+--- Page 3 ---
+ 
+Mergers and Acquisitions 
+Professor Alexander Roberts PhD, MBA, FCCA, FCIS, MCIBS. 
+Professor Roberts lectures, researches, and consults for major organisations on strategy development 
+and implementation and related issues. The practical relevance of his work is underpinned by 15 years in 
+senior management, including 10 years at executive director level within multinational subsidiaries of 
+American- and European-based businesses. His work experience includes making mergers and acquisi-
+tions work in practice. Professor Roberts gained his PhD from the London Business School in 1997. He 
+has extensive executive and postgraduate management development experience. Professor Roberts 
+founded the Doctorate in Business Administration (DBA) in Strategic Focus programme at EBS. Professor 
+Roberts is also author/co-author of several MBA/DBA distance learning texts.  
+Dr William Wallace BSc (Hons), MSc, PhD 
+DBA Programme Director and Senior Teaching Fellow, Edinburgh Business School (EBS), the Graduate 
+School of Business at Heriot-Watt University. 
+Dr William Wallace holds degrees from Leeds Metropolitan University (1981), Loughborough University 
+(1983) and Heriot-Watt University (1987). He joined Edinburgh Business School in 2000 after 10 years’ 
+project management experience in the UK public and private sectors. Dr Wallace is author of the EBS 
+DBA texts Project Management and Alliances and Partnerships. He is joint author of Strategic Risk Manage-
+ment and Mergers and Acquisitions. He is also either author or joint author of the EBS DBA texts 
+Introduction to Business Research 1–3. He is Chair of the EBS DBA Research Committee and has successful-
+ly mentored and supervised numerous EBS DBA students. 
+Dr Peter Moles MA, MBA, PhD. 
+Peter Moles is a finance lecturer at the University of Edinburgh Management School, where he teaches 
+elements of finance on a number of undergraduate, postgraduate and professional programmes. His 
+research interests are in risk management, principally financial risk management, and corporate decision-
+making, including problems in currency management and in the management of financial distress. He took 
+up his post following a career in the City working for a number of banks, latterly for Chase Investment 
+Bank, in the international capital markets. His last major post was analysing treasury management 
+processes for corporate clients. He is the author of Edinburgh Business School’s MBA distance learning 
+text on Financial Risk Management and is joint author of the Handbook of International Financial Terms, 
+published by Oxford University Press.  
+
+--- Page 4 ---
+ 
+First Published in Great Britain in 2003. 
+© Roberts, Wallace, Moles 2003, 2010  
+The rights of Professor Alexander Roberts, Dr William Wallace and Dr Peter Moles to be identified as 
+Authors of this Work has been asserted in accordance with the Copyright, Designs and Patents Act 1988. 
+All rights reserved; no part of this publication may be reproduced, stored in a retrieval system, or 
+transmitted in any form or by any means, electronic, mechanical, photocopying, recording, or otherwise 
+without the prior written permission of the Publishers. This book may not be lent, resold, hired out or 
+otherwise disposed of by way of trade in any form of binding or cover other than that in which it is 
+published, without the prior consent of the Publishers. 
+
+--- Page 5 ---
+ 
+ 
+Mergers and Acquisitions   Edinburgh Business School 
+v 
+Contents 
+Preface 
+ 
+ 
+ix 
+The Multidisciplinary Approach 
+xi 
+Gaining a Swift Overview 
+xi 
+ 
+Introduction 
+ 
+ 
+xiii 
+Philosophy 
+xiv 
+ 
+List of 
+Abbreviations 
+ 
+ 
+xvi 
+Module 1 
+Introduction 
+1/1
+ 
+1.1 
+The Concept of Mergers and Acquisitions 
+1/2 
+1.2 
+Why Companies Merge and Acquire 
+1/4 
+1.3 
+Integration and Conglomeration 
+1/8 
+1.4 
+The Merger and Acquisition Lifecycle 
+1/10 
+1.5 
+Measuring the Success of Mergers and Acquisitions 
+1/14 
+1.6 
+A Brief History of Mergers and Acquisitions 
+1/17 
+Learning Summary 
+1/19 
+Review Questions 
+1/24 
+ 
+  
+Module 2 
+Strategic Focus 
+2/1
+ 
+2.1 
+Introduction 
+2/1 
+2.2 
+Some Common Questions about Mergers and Acquisitions 
+2/3 
+2.3 
+Some Common Misconceptions about Mergers and Acquisitions 
+2/8 
+2.4 
+Business Strategy and Corporate Strategy 
+2/12 
+2.5 
+National and International Regulators 
+2/37 
+2.6 
+The Concept of Strategic Focus 
+2/40 
+2.7 
+Aligning Focus With Performance 
+2/45 
+2.8 
+Change and Strategic Drift 
+2/60 
+2.9 
+Characteristics Mapping 
+2/88 
+Learning Summary 
+2/107 
+Review Questions 
+2/115 
+ 
+  
+Module 3 
+Why Mergers Fail 
+3/1
+ 
+3.1 
+Introduction 
+3/1 
+3.2
+Some Common Questions about Mergers and Acquisitions 
+3/2
+
+--- Page 6 ---
+Contents 
+vi 
+Edinburgh Business School   Mergers and Acquisitions
+3.3 
+Some Common Misconceptions 
+3/5 
+3.4 
+Merger Failure Drivers 
+3/7 
+3.5 
+The Development of a Process Model 
+3/49 
+3.6 
+Characteristics of a Successful Merger 
+3/56 
+3.7 
+Rules for Avoiding an Unsuccessful Merger 
+3/58 
+Learning Summary 
+3/59 
+Review Questions 
+3/63 
+ 
+  
+Module 4 
+Valuation 
+4/1 
+ 
+4.1 
+Introduction 
+4/2 
+4.2 
+Why Firms Merge 
+4/4 
+4.3 
+Valuation Methods 
+4/12 
+4.4 
+Growth Opportunities 
+4/36 
+Learning Summary 
+4/48 
+4.5 
+Appendix 1: Determining Cash Flows from Accounting Numbers 
+4/52 
+4.6 
+Appendix 2: Accounting Treatment of Acquisitions 
+4/56 
+4.7 
+Appendix 3: Tax Depreciation 
+4/58 
+Bibliography 
+4/60 
+Review Questions 
+4/60 
+ 
+  
+Module 5 
+Bid Tactics 
+5/1 
+ 
+5.1 
+Introduction 
+5/2 
+5.2 
+Bidding and Resisting as a Game 
+5/11 
+5.3 
+Offensive and Defensive Tactics 
+5/15 
+5.4 
+Northern Electric Case Study 
+5/38 
+Learning Summary 
+5/48 
+Bibliography 
+5/50 
+Review Questions 
+5/51 
+ 
+  
+Module 6 
+Due Diligence 
+6/1 
+ 
+6.1 
+Introduction 
+6/2 
+6.2 
+Critical Value Drivers 
+6/10 
+6.3 
+The Value of New Information 
+6/17 
+6.4 
+Due Diligence Checklists 
+6/23 
+6.5 
+Materiality 
+6/25 
+6.6 
+Sampling 
+6/28 
+Learning Summary 
+6/37 
+Bibliography 
+6/40 
+Review Questions
+6/40 
+
+--- Page 7 ---
+ 
+Contents 
+Mergers and Acquisitions   Edinburgh Business School 
+vii
+ 
+  
+Module 7 
+The Concept of Implementation 
+7/1
+ 
+7.1 
+Introduction 
+7/1 
+7.2 
+Some Common Questions about Merger Implementation 
+7/2 
+7.3 
+Some Common Misconceptions about Merger Implementation 
+7/6 
+7.4 
+The General Concept of Implementation 
+7/10 
+7.5 
+Identifying Synergies 
+7/14 
+7.6 
+The Implementation Process 
+7/21 
+7.7 
+Implementation Risk Management 
+7/39 
+7.8 
+The Concept of Disintegration and Reintegration 
+7/52 
+7.9 
+Managerial Levers 
+7/54 
+7.10 
+Transformation Tools 
+7/57 
+Review Questions 
+7/73 
+ 
+  
+Module 8 
+Project Management as a Tool for Managing the Implementation  
+Process 
+8/1
+ 
+8.1 
+Introduction 
+8/1 
+8.2 
+Some Common Questions about Project Management 
+8/3 
+8.3 
+Some Common Misconceptions about Project Management 
+8/6 
+8.4 
+The Overall Implementation Process 
+8/8 
+8.5 
+Project Management 
+8/17 
+8.6 
+Project Management as a Tool for Managing the Overall Acquisition or  
+Merger Process 
+8/50 
+Learning Summary 
+8/69 
+Review Questions 
+8/84 
+ 
+  
+Module 9 
+Developing the Implementation Plan 
+9/1
+ 
+9.1 
+Introduction 
+9/1 
+9.2 
+Some Common Questions about Implementation Planning 
+9/3 
+9.3 
+Some Common Misconceptions about Implementation Planning 
+9/6 
+9.4 
+The Concept of the Implementation Strategic Project Plan 
+9/9 
+9.5 
+Project Aims and Objectives and Preliminaries 
+9/14 
+9.6 
+Merger Team and Human Issues 
+9/16 
+9.7 
+Merger Contracts and Procurement 
+9/46 
+9.8 
+Project Schedule and Cost Plan 
+9/58 
+9.9 
+Resources 
+9/80 
+9.10 
+The Implementation Risk Management System 
+9/83 
+Learning Summary 
+9/105 
+Review Questions 
+9/123
+
+--- Page 8 ---
+Contents 
+viii 
+Edinburgh Business School   Mergers and Acquisitions
+ 
+  
+Module 10 
+Executing the Implementation Plan 
+10/1 
+ 
+10.1 
+Introduction 
+10/1 
+10.2 
+Some Common Questions about Plan Execution 
+10/2 
+10.3 
+Some Common Misconceptions about Plan Execution 
+10/6 
+10.4 
+Monitoring and Control 
+10/9 
+10.5 
+Achieving Integration 
+10/12 
+10.6 
+Achieving Synergies 
+10/17 
+10.7 
+Common Problem Areas and Tactical Responses 
+10/20 
+Learning Summary 
+10/65 
+Review Questions 
+10/74 
+ 
+  
+Appendix 1 
+Practice Final Examinations 
+A1/1 
+Final Practice Examination 
+1/2 
+Examination Answers 
+1/6 
+ 
+  
+Appendix 2 
+Statistical Tables 
+A2/1 
+Appendix 3 
+Examination Formula Sheet 
+A3/1 
+Appendix 4 
+Answers to Review Questions 
+A4/1 
+Module 1 
+4/1 
+Module 2 
+4/2 
+Module 3 
+4/4 
+Module 4 
+4/5 
+Module 5 
+4/25 
+Module 6 
+4/37 
+Module 7 
+4/51 
+Module 8 
+4/53 
+Module 9 
+4/54 
+Module 10 
+4/56 
+ 
+  
+Index 
+ 
+I/1 
+
+--- Page 9 ---
+ 
+ 
+Mergers and Acquisitions   Edinburgh Business School 
+ix
+Preface 
+An understanding of mergers and acquisitions as a discipline is increasingly im-
+portant in modern business. A glance at any business newspaper or business news 
+web page will indicate that mergers and acquisitions are big business and are taking 
+place all the time. Some sectors, such as finance, oil, pharmaceuticals, telecommuni-
+cations, IT and chemicals, have been transformed since 1994 by the occurrence of 
+very large-scale mergers and acquisitions. The sums of money involved in the really 
+big mergers are truly astronomical. For example, the acquisition of the German 
+company Mannesmann by the UK company Vodafone in 2000 was valued at $183 
+billion. This deal created by far the largest company listed on the London Stock 
+Exchange, and the fourth largest company in the world. The Vodafone–Mannesman 
+deal overshadowed other recent large-scale deals including AOL-Time – Warner 
+($181 billion), MCWorld.com – Sprint ($127 billion), Pfizer – Warner Lambert ($88 
+billion) and Exxon-Mobil ($86 billion). These are enormous sums of money by any 
+standards. 
+Mergers and acquisitions also take place in relation to much smaller transactions. 
+In an increasing number of countries mergers are now occurring between public 
+sector organisations in areas such as universities and hospital trusts. The indications 
+are that this high level of interest in mergers and acquisitions will continue and if 
+anything increase. As technology continues to develop, and as deregulation and 
+globalisation evolve, the old barriers to trade and national influence become less and 
+less of an obstruction to international trade. In this context, mergers and acquisi-
+tions are likely to become an even more important consideration in strategic 
+planning and strategy implementation in the future. 
+In an article in the Harvard Business Review, Joe Bower suggested that most mer-
+gers and acquisitions fail. He said that there is a great deal written about mergers and 
+acquisitions, although these writings are largely opinions and are based on one-off 
+cases from which general rules cannot be reliably determined. 
+In the Edinburgh Business School (EBS) approach, mergers and acquisitions as a 
+discipline are closely related to the Strategic Focus Wheel™ as developed by Professor 
+Alex Roberts. Mergers and acquisitions represent a major source of organisational 
+change. In relation to change, organisations that can identify the need for change, 
+design the changes required and implement these changes more effectively and 
+efficiently than others are more likely to survive and prosper. Those that cannot 
+adapt to change are likely to perish. The Strategic Focus Wheel™ was developed by 
+Professor Alex Roberts to address these issues. 
+The Strategic Focus Wheel™ covers four interrelated areas as shown below. These 
+four areas form the basis for separate Edinburgh Business School distance learning 
+texts and for the core of the EBS Doctor of Business Administration (DBA) in 
+Strategic Focus programme. 
+
+--- Page 10 ---
+Preface 
+x 
+Edinburgh Business School   Mergers and Acquisitions
+ 
+The Strategic Focus Wheel™ 
+© A. Roberts and A. MacLennon 2002 
+The wheel is used to focus the efforts and resources of organisations on delivering 
+their intended strategic objectives, and has four core elements. 
+ Strategic planning revolves around identifying the options available to an 
+organisation and selecting the most appropriate. If the strategic position selected 
+is poor or inappropriate, even the best implementation capability is unlikely to 
+compensate. 
+ Making strategies work is a process for connecting the high-level strategic plan 
+to the day-to-day activities that are critical to its delivery. 
+ Project management of change ensures completeness and control over the 
+physical realisation of the chosen strategy. Project management provides a com-
+prehensive set of tools and techniques that enable managers to plan and 
+implement change effectively and increase the likelihood of achieving the various 
+objectives of the change process. 
+ Strategic risk management concerns the identification, monitoring and 
+management of the risk profile of the organisation. Strategic risk management 
+covers four primary risk areas or levels. These are strategic risk, change or project risk, 
+operational risk and unforeseeable risk. 
+The complete Strategic Focus Wheel offers a representation of some approaches and 
+tool sets that can assist in achieving and maintaining strategic focus. The EBS text in 
+Mergers and Acquisitions is one of a series of new advanced-level integrated texts that 
+have been developed in conjunction with the Strategic Focus Wheel. In implementing a 
+major merger or acquisition the wheel functions can be used to plan the merger or 
+acquisition and then make the transition work. The immediate and likely long-term 
+performance of the transition can be monitored using strategic risk management 
+tools and techniques. Where specific risks are identified and classified, project 
+management can be used as a correctional tool for reducing the risk to a level where 
+the residual element poses little threat to successful implementation. 
+Strategic Planning
+Making
+Strategies
+Work
+Project Management
+of Change
+Strategic
+Risk
+Management
+Strategic
+Focus Wheel 
+
+--- Page 11 ---
+ 
+Preface 
+Mergers and Acquisitions   Edinburgh Business School 
+xi
+The terms ‘merger’ and ‘acquisition’ are used interchangeably throughout the 
+text. Setting the ownership issues to one side, the other characteristics, such as 
+strategic logic, valuation, due diligence and implementation, remain similar. 
+The Multidisciplinary Approach 
+Mastery of mergers and acquisitions entails using skills from a wide range of 
+management disciplines. It could be that many mergers and acquisitions fail because 
+the managers leading them have an insufficient breadth of skills and/or experience. 
+In mastering this text readers will have to call upon many disciplines encountered in 
+the core MBA courses. In order to evaluate the strategic logic of a merger or 
+acquisition, readers will need to think like a strategist. The basics of the Strategic 
+Planning course are extended to encompass focus and characteristics mapping. 
+Having evaluated the strategic logic, readers will then be challenged to put a value 
+on the proposed merger or acquisition transaction and, therefore, will need to think 
+like a financier, drawing on the knowledge acquired during the Finance course. Last, 
+but by no means least, readers will be challenged to implement (make it work in 
+practice) the proposed merger or acquisition, drawing on the knowledge acquired in 
+the Project Management and Strategic Risk Management courses.  
+In Mergers and Acquisitions, readers are challenged to think in an integrated man-
+ner; like a strategist, financier and project manager, but all at the same time. Few 
+functional managers, with the possible exception of a few CEOs and general 
+managers, are called upon to apply such a wide range of disciplines simultaneously 
+in an integrated manner. It is, however, our observation that many people who lead 
+mergers and acquisitions in practice come from a single functional background. This 
+may be part of the explanation for many of the failures in mergers and acquisitions, 
+and for the recent rise of specialist merger and acquisition project management 
+consultancies, particularly in the US. 
+As would be expected, there is some overlap between the Mergers and Acquisi-
+tions text and the basic MBA courses, particularly the courses in Strategic Planning 
+and Finance. There is also some overlap with the courses in Project Management 
+and Strategic Risk Management. Such overlaps are, however, considered in the 
+specific context of mergers and acquisitions. 
+Gaining a Swift Overview 
+Readers have many different learning styles. Some readers prefer to study a stage at 
+a time in depth. Others prefer to read through the text, develop an overview and 
+then fill in the specific detail over a period of time. For readers who fall into the 
+second category it is recommended that they first read the frequently asked ques-
+tions and common misconceptions at the beginning of each module and the module 
+summaries at the end of each module.  
+Note also that this text is concerned with risk management from a generic point 
+of view. The text does not refer specifically to financial risk management as there 
+
+--- Page 12 ---
+Preface 
+xii 
+Edinburgh Business School   Mergers and Acquisitions
+are already two appropriate Edinburgh Business School distance learning texts: 
+Financial Risk Management 1 and Financial Risk Management 2. 
+Mergers and Acquisitions is an integrated text. Most textbooks on mergers and ac-
+quisitions concentrate on one aspect of the process, such as the financial aspect. 
+This text attempts to consider the whole process, from strategic rationale to 
+implementation. In doing so, the text addresses a combination of strategic, financial 
+and implementation issues. The financial issues are addressed by a financial special-
+ist and adopt a slightly different format and structure to the rest of the course. 
+Candidates may therefore detect structural and content differences between 
+Modules 4 (valuation), 5 (merger tactics) and 6 (due diligence) and the other 
+modules contained within the text. These differences are intentional, as the financial 
+aspects of mergers and acquisitions necessarily take a different viewpoint from the 
+strategic and implementation aspects. 
+Candidates may detect that the financial modules (Modules 4, 5 and 6) adopt a 
+more quantitative approach and make use of a smaller number of more detailed 
+end-of-module multi-choice and self-assessment questions. This is because the 
+questions used in these modules address a more narrowly focused and defined area 
+than the strategic rationale and implementation areas. Strategists and project 
+managers (implementers) have to be able to think in terms of a wider range of 
+variables and drivers than financial specialists. Modules 1 through 3 and 7 to 10, 
+therefore, address a wider range of less detailed end-of-module multi-choice and 
+self-assessment questions. 
+
+--- Page 13 ---
+ 
+ 
+Mergers and Acquisitions   Edinburgh Business School 
+xiii
+Introduction 
+As with most EBS advanced integrated texts, Mergers and Acquisitions is split into a 
+series of individual modules, structured around five areas whose content and 
+delivery sequence are detailed in the following figure. 
+ 
+The five primary sections of the EBS Mergers and Acquisitions course 
+Module 1 introduces the primary terms and expressions that are used in the text. 
+It goes on to differentiate between mergers and acquisitions and considers the 
+Section 1 (Module 1)
+Introduction and background
+Section 2 (Modules 2 and 3)
+Strategic rationale
+Section 3 (Modules 4 and 5)
+Valuation and due diligence
+Section 4 (Modules 6–9)
+Implementation
+Underlying
+strategic rationale
+Merger drivers
+Strategic focus
+Basic introduction to the main
+terms used and the underlying
+philosophy and rational for
+mergers and acquisitions.
+The essential strategic
+rationale behind mergers
+What companies hope
+to achieve
+The various drivers behind
+strategic mergers
+Establishing and maintaining
+strategic focus
+The financial analysis of
+potential target companies
+Valuation tools and
+techniques
+Net present value analysis
+Potential for growth in
+the target
+Sections
+Basic contents
+Valuation
+analysis
+Growth potential
+Due diligence
+Pre-
+implementation
+planning
+Project
+Management as a
+tool for managing
+change
+Implementation
+monitoring and
+control
+The design and management
+of the merger implementation
+process
+The establishment of a
+merger plan
+Staffing and resources
+Merger implementation teams
+Managing the implementation
+process
+Achieving successful integration
+Project management as a tool
+for managing change
+Section 5
+Course summary
+Module summary with self-
+assessment questions
+
+--- Page 14 ---
+Introduction 
+xiv 
+Edinburgh Business School   Mergers and Acquisitions
+underlying rationales and drivers. It also considers the concept of integration as a 
+merger goal. 
+The text is then divided into three sections that reflect the primary components 
+of the course. The three sections are listed below. 
+ Strategic rationale 
+Modules 2 and 3 are the first of the three main sections of the course. They set 
+out the strategic rationale behind mergers, how mergers can disrupt strategic 
+focus, and how that focus can be maintained throughout the change process. 
+ Valuation, merger strategy and due diligence 
+Modules 4 to 6 consider the basic tools and approaches available for valuing a 
+potential target company, particularly in relation to its potential for future 
+growth. These modules look in detail at the valuation process, the considerations 
+inherent in the development of a merger strategy and the process to be adopted 
+in conducting a due diligence survey and analysis. 
+ Implementation and integration 
+Modules 7 to 10 consider the implementation process particularly in the context 
+of using project management as a tool for managing change (see the strategic 
+focus wheel discussion in the preface). Mergers and acquisitions impose a con-
+siderable degree of change on an organisation and it is imperative that properly 
+designed procedures and processes are designed and applied. These modules 
+consider the processes involved in the preparation of an implementation plan 
+and in executing and managing this plan through to completion. 
+Philosophy 
+This text seeks to establish a process model for mergers and acquisitions. Most 
+people know what a model is or at least are familiar with the concept of modelling.  
+One definition of a model is: 
+  
+‘a description, comparison or analogy used to describe that which cannot be 
+seen’.  
+  
+One definition of a process is: 
+  
+‘a series of actions or operations in order to achieve a defined objective’.  
+  
+It is therefore reasonable to suggest that a process model of mergers and acquisi-
+tions process is a description or analogy of the action and operations involved in 
+achieving a mergers and acquisitions system. The idea of a process model is to 
+represent the stages and phases involved in a task. A user should be able to look at 
+the process model and be able to use it as a kind of map or guide to assist him or 
+her in developing the outcome of the model. Process models are useful because they 
+are general representations of what has to be done in order to achieve a specified 
+outcome. They are usually generic and therefore also relevant in a range of applica-
+tions. However, the general nature of the model may restrict the definition and 
+
+--- Page 15 ---
+ 
+Introduction 
+Mergers and Acquisitions   Edinburgh Business School 
+xv
+applicability for individual companies and organisations. For specific application, the 
+process model has to be tuned with the detailed company data and information 
+necessary for an accurate and specific analysis. 
+The text is designed so that it develops an understanding of the processes involved 
+in mergers and acquisitions. The process model ultimately developed will reflect these 
+properties. 
+
+--- Page 16 ---
+ 
+ 
+Mergers and Acquisitions   Edinburgh Business School 
+xvi 
+List of Abbreviations 
+  
+ACT 
+advance corporation tax 
+ACWP 
+actual cost of works performed 
+AIM 
+Alternative Investment Market 
+AN 
+abnormal return 
+AOA 
+activity on arc 
+AOSC 
+administrative operations steering committee 
+APV 
+adjusted present value 
+ARR 
+analytical review risk 
+BAC 
+budget at completion 
+BCMT 
+business continuity management team 
+BCP 
+business continuity plan 
+BCPMT 
+business continuity plan management team 
+BCWP 
+budgeted cost of works performed 
+BCWS 
+budgeted cost of works scheduled 
+BOE 
+barrels of oil equivalent 
+BSC 
+balanced scorecard 
+BV 
+book value 
+CACS 
+cost account code system 
+CAPM 
+capital asset pricing model 
+CAR 
+cumulative abnormal return 
+CBA 
+critical business activity 
+CBAM 
+critical business activity measure 
+CBS 
+cost breakdown structure 
+CCS 
+change control system 
+CCS 
+constant capital structure 
+CDES 
+computerised database estimating system 
+CEP 
+chief executive officer 
+CMS 
+configuration management system 
+CPM 
+critical path method 
+CR 
+control risk 
+CSF 
+critical success factor 
+CV 
+cost variance 
+DBA 
+Doctor of Business Administration 
+DCF 
+discounted cash flow 
+DDR 
+due diligence risk 
+DIY 
+do-it-yourself 
+
+--- Page 17 ---
+ 
+List of Abbreviations 
+Mergers and Acquisitions   Edinburgh Business School 
+xvii
+DMS 
+draft master schedule 
+DR 
+detection risk 
+DTI 
+Department of Trade and Industry 
+DVD 
+digital versatile disc 
+EAC 
+estimate at completion 
+EAIS 
+enterprise application integration system 
+EBIT 
+earnings before interest and tax paid 
+EBITDA 
+earnings before interest, tax, depreciation and allowances 
+EBS 
+Edinburgh Business School 
+ECC 
+European Competition Commission 
+ECTC 
+estimated cost to complete 
+EPS 
+earnings per share 
+ESOP 
+employee stock ownership plan 
+ETTC 
+estimated time to completion 
+EU 
+European Union 
+EV 
+expected value 
+EVA 
+earned value analysis 
+FARM 
+functional area recovery management 
+FCF 
+free cash flow 
+HR 
+human resources 
+IES 
+intelligent electronic systems 
+IMS 
+information management system 
+IR 
+inherent risk 
+IRG 
+implementation review group 
+IRR 
+internal rate of return 
+IT 
+information technology 
+KEI 
+key environmental indicator 
+KPI 
+key performance indicator 
+LPE 
+London Petroleum Exchange 
+LSE 
+London Stock Exchange 
+M&A 
+mergers and acquisitions 
+MACRS 
+modified accelerated cost recovery system 
+ME 
+monetary error 
+MIPM 
+merger implementation project manager 
+MIS 
+merger integration survey 
+MIT 
+merger integration team 
+MMC 
+Monopolies and Mergers Commission 
+MPT 
+merger project team 
+MTF 
+Merger Task Force 
+MTT 
+merger transition team 
+
+--- Page 18 ---
+List of Abbreviations 
+xviii 
+Edinburgh Business School   Mergers and Acquisitions
+NAM 
+net advantage of merging 
+NCF 
+net cash flow 
+NOPAT 
+net operating profit after tax 
+NPV 
+net present value 
+NWC 
+net working capital 
+OBS 
+organisational breakdown structure 
+OCE 
+organisational cultural evaluation 
+OEM 
+original equipment manufacturer 
+OER 
+organisational effectiveness register 
+OFFER 
+Office of Electricity Regulation 
+OFT 
+Office of Fair Trading 
+OPEC 
+Organisation of Petroleum Exporting Countries 
+PAPRS 
+performance assurance plan and review system 
+PC 
+personal computer 
+PCCS 
+project cost control system 
+PERT 
+programme evaluation and review technique 
+PLE 
+project logic evaluation 
+PMS 
+project master schedule 
+PPB 
+party political broadcast 
+PPU 
+price per unit 
+PVAR 
+project variance analysis reporting 
+R&D 
+research and development 
+RC 
+replacement cost 
+REC 
+regional electricity company 
+ROV 
+real option valuation 
+SBU 
+strategic business unit 
+SCC 
+strategic change campaign 
+SFRT 
+specialised functional response team 
+SGA 
+sales, general and administration 
+SIT 
+specialist integration team 
+SOW 
+statement of work 
+SPP 
+strategic project plan 
+SR 
+sample risk 
+SV 
+schedule variance 
+SWOT 
+strengths, weaknesses, opportunities and threats 
+TQM 
+total quality management 
+TRM 
+task responsibility matrix 
+VCA 
+value created by acquisition 
+VO 
+variation order 
+VOR 
+variation order request 
+
+--- Page 19 ---
+ 
+List of Abbreviations 
+Mergers and Acquisitions   Edinburgh Business School 
+xix
+WACC 
+weighted-average cost of capital 
+WAP 
+wireless application protocol 
+WBS 
+work breakdown structure 
+  
+ 
+
+--- Page 20 ---
+
+--- Page 21 ---
+ 
+ 
+Mergers and Acquisitions   Edinburgh Business School 
+1/1
+Module 1 
+ Introduction 
+Contents 
+1.1 
+The Concept of Mergers and Acquisitions ...........................................1/2 
+1.2 
+Why Companies Merge and Acquire ...................................................1/4 
+1.3 
+Integration and Conglomeration ..........................................................1/8 
+1.4 
+The Merger and Acquisition Lifecycle ............................................... 1/10 
+1.5 
+Measuring the Success of Mergers and Acquisitions ....................... 1/14 
+1.6 
+A Brief History of Mergers and Acquisitions .................................... 1/17 
+Learning Summary ......................................................................................... 1/19 
+Review Questions ........................................................................................... 1/24 
+ 
+Learning Objectives 
+By the time you have completed this module you should understand: 
+ what a merger is and how it differs from an acquisition; 
+ some of the reasons why companies merge; 
+ the underlying merger rationales; 
+ what a merger driver is; 
+ what the primary merger drivers are; 
+ the difference between horizontal integration, vertical integration and conglom-
+eration; 
+ the basic merger lifecycle and lifecycle phases; 
+ some basic measures of success for mergers; 
+ the difference between long-term and short-term measures of success; 
+ the basic scenarios for failure; 
+ the concept of merger waves and the major waves that have occurred since 1900. 
+This module acts as an introduction to the EBS text in Mergers and Acquisitions.  
+Note that most of the areas discussed in this module are developed in more detail 
+in subsequent modules. This module provides an introduction and overview to 
+some of the main issues and considerations relating to mergers and acquisitions.  
+
+--- Page 22 ---
+Module 1 / Introduction 
+1/2 
+Edinburgh Business School   Mergers and Acquisitions
+1.1 
+The Concept of Mergers and Acquisitions 
+1.1.1 
+Introduction 
+This section introduces the concept of mergers and acquisitions. The section 
+assumes no prior knowledge of the subject. 
+It should be appreciated at the outset that mergers and acquisitions are affected 
+by a number of influences that are very much specific to the individual country 
+where they take place. Typical regional factors with a direct impact on mergers and 
+acquisitions include: 
+ company law; 
+ employment law; 
+ community law; 
+ regulations and regulatory powers; 
+ community codes of practice and standards; 
+ custom and embedded practices; 
+ protectionism. 
+For example, in most European countries and the US there are government 
+controls on mergers and acquisitions where the combination of two or more 
+companies can have an impact on the overall level of competition within a particular 
+market. This applies particularly where the merger or acquisition would give the new 
+company the ability to alter or fix prices in a particular sector. In the UK the 
+Competition Commission considers proposed mergers between large companies in 
+the same sector to determine whether there is any possibility of such price control 
+being an outcome. Several large proposed mergers have been blocked on these 
+grounds in the UK over the past few years. 
+Employment law can be a major consideration in some EU countries. There are 
+significant differences in the level of employee rights in the various member states. 
+Germany, for example, has much more stringent employment law than the UK. A 
+UK company wishing to merge with a German company may find itself dealing with 
+powerful, legally protected employee ‘commissions’ or representative groups. In 
+some cases such groups can influence government bodies and can make the 
+difference between the proposed merger being accepted or being blocked.  
+In considering mergers and acquisitions it is not possible to allow for the multi-
+tude of different restrictions and laws that apply in the numerous different countries 
+where such actions take place. This text attempts to develop a generic overview of 
+mergers and acquisitions. The main areas and sections covered are intended to 
+provide a general overview of what is involved and how the process works. The 
+individual regulatory and legal details are generally omitted. 
+1.1.2 
+Mergers and Acquisitions 
+A merger or an acquisition in a company sense can be defined as the combination 
+of two or more companies into one new company or corporation. 
+
+--- Page 23 ---
+ 
+Module 1 / Introduction 
+Mergers and Acquisitions   Edinburgh Business School 
+1/3
+The main difference between a merger and an acquisition lies in the way in which 
+the combination of the two companies is brought about. 
+In a merger there is usually a process of negotiation involved between the two 
+companies prior to the combination taking place. For example, assume that Com-
+panies A and B are existing financial institutions. Company A is a high street bank 
+with a large commercial customer base. Company B is a building society or similar 
+organisation specialising in providing home loans for the domestic market. Both 
+companies may consider that a merger would produce benefits as it would make the 
+commercial and domestic customer bases available to the combined company. 
+There will obviously be some complications and difficulties involved but there are 
+also some obvious potential synergies available. For example, company B might be 
+able to use its home loans experience to offer better deals to potential and existing 
+mortgage customers of company A. The two companies may decide to initiate 
+merger negotiations. If these are favourable, the outcome would be a merger of the 
+two companies to form a new larger whole. 
+In an acquisition the negotiation process does not necessarily take place. In an 
+acquisition company A buys company B. Company B becomes wholly owned by 
+company A. Company B might be totally absorbed and cease to exist as a separate 
+entity, or company A might retain company B in its pre-acquired form. This limited 
+absorption is often practised where it is the intention of company A to sell off 
+company B at a profit at some later date. In acquisitions the dominant company is 
+usually referred to as the acquirer and the lesser company is known as the ac-
+quired. The lesser company is often referred to as the target up to the point where 
+it becomes acquired.  
+In most cases the acquirer acquires the target by buying its shares. The acquirer 
+buys shares from the target’s shareholders up to a point where it becomes the 
+owner. Achieving ownership may require purchase of all of the target shares or a 
+majority of them. Different countries have different laws and regulations on what 
+defines target ownership.  
+Acquisitions can be friendly or hostile. In the case of a friendly acquisition the 
+target is willing to be acquired. The target may view the acquisition as an opportuni-
+ty to develop into new areas and use the resources offered by the acquirer. This 
+happens particularly in the case of small successful companies that wish to develop 
+and expand but are held back by a lack of capital. The smaller company may actively 
+seek out a larger partner willing to provide the necessary investment. In this scenario 
+the acquisition is sometimes referred to as a friendly or agreed acquisition. 
+Alternatively, the acquisition may be hostile. In this case the target is opposed to 
+the acquisition. Hostile acquisitions are sometimes referred to as hostile takeovers.  
+One tactic for avoiding a hostile takeover is for the target to seek another com-
+pany with which it would rather merge or be acquired by. This third company, if it 
+agrees, is sometimes referred to as a white knight, as it ‘comes to the rescue’ of the 
+threatened target. 
+In hostile takeovers the acquirer may attempt to buy large amounts of the target’s 
+shares on the open market. The problem with this action is that the target’s share 
+price will tend to increase in value as soon as any large-scale purchases are detected. 
+
+--- Page 24 ---
+Module 1 / Introduction 
+1/4 
+Edinburgh Business School   Mergers and Acquisitions
+In order to minimise share price rises, the acquirer may attempt to buy as much 
+stock as possible in the shortest possible time, preferably as soon as the markets 
+open. This practice is sometimes referred to as a dawn raid, as it attempts to take 
+the market (insofar as is possible) ‘by surprise’.  
+In both friendly and hostile takeovers the decision on whether or not to sell 
+shares in the target lies with the shareholders. If all or a large proportion of target 
+shareholders agree to sell their shares, ownership will be transferred to the acquirer. 
+Shareholders generally will agree to a merger if they are recommended to do so by 
+the board of directors and if they stand to make a profit on the deal. The acquirer 
+may offer either cash or its own shares in exchange for target shares. Cash transac-
+tions offer shareholders an immediate potential profit, whereas shares offer a 
+longer-term investment. Share transactions tend to be more attractive to sharehold-
+ers in a buoyant market as the value of the shares is likely to increase more rapidly 
+than in a stagnant market. 
+1.2 
+Why Companies Merge and Acquire 
+1.2.1 
+Introduction 
+There are numerous reasons why one company chooses to merge with or acquire 
+another. The literature suggests that the underlying motivation to merge is driven by 
+a series of rationales and drivers.  
+Rationales consist of the higher-level reasoning that represents decision condi-
+tions under which a decision to merge could be made. Drivers are mid-level specific 
+(often operational) influences that contribute towards the justification or otherwise 
+for a merger. As an example, company A might decide to acquire company B. The 
+underlying rationale could be that of strategy implementation. In order to 
+achieve one or more strategic objectives it may be necessary for company A to 
+acquire company B because, at present, there is over-capacity in the sector in which 
+company A and company B operate. This is an example of a strategic rationale. 
+The underlying driver for acquiring company B is the desire to control capacity in 
+that sector.  
+An understanding of the various rationales and drivers behind mergers and ac-
+quisitions is very important in developing command of this text.  
+1.2.2 
+Some Underlying Rationales 
+There are several primary rationales that determine the nature of a proposed merger 
+or acquisition. These rationales are: 
+ Strategic rationale. The strategic rationale makes use of the merger or acquisi-
+tion in achieving a set of strategic objectives. As discussed above, a merger to 
+secure control of capacity in the chosen sector is an example. Mergers and acqui-
+sitions are usually not central in the achievement of strategic objectives, and 
+there are usually other alternatives available. For example, company A might 
+want to gain a foothold in a lucrative new expanding market but lacks any expe-
+
+--- Page 25 ---
+ 
+Module 1 / Introduction 
+Mergers and Acquisitions   Edinburgh Business School 
+1/5
+rience or expertise in the area. One way of overcoming this may be to acquire a 
+company that already has a track record of success in the new market. The alter-
+native might be to develop a research and development division in the new 
+market products in an attempt to catch up and overtake the more established 
+players. This alternative choice has obvious cost and time implications. In the 
+past it has only really been achieved successfully where the company wishing to 
+enter the new market already produces goods or has expertise in a related area. 
+As an example, an established producer of electronic goods might elect to divert 
+some of its own resources into developing a new related highly promising area 
+such as digital telephones. A large scale example is the electronics giant Sony in 
+taking the strategic decision to create a research and development facility in elec-
+tronics games consoles in order to develop a viable competitive base in this area 
+despite there being a relatively small number of very powerful and established 
+competitors in the area.  
+ The strategic rationale may also be fundamentally defensive. If there are several 
+large mergers in a particular sector, a non-merged company may be pressured 
+into merging with another non-merged company in order to maintain its com-
+petitive position. This strategic scenario tends to happen in sectors dominated by 
+relatively large players. In the UK, all of the major high street banks were en-
+gaged in merger activity between 1995 and 2002. In the global oil production 
+sector, all of the major oil producers were involved in merger activity in the same 
+period. In some cases three or more major producers merged into super-
+companies. In both industries the merger wave was driven by a need to respond 
+to the merger activities of competitors.  
+ Speculative rationale. The speculative rationale arises where the acquirer views 
+the acquired company as a commodity. The acquired company may be a player 
+in a new and developing field. The acquiring company might want to share in the 
+potential profitability of this field without committing itself to a major strategic 
+realignment. One way to achieve this is to buy established companies, develop 
+them, and then sell them for a substantial profit at a later date. This approach is 
+clearly high risk, even if the targets are analysed and selected very carefully. A 
+major risk, particularly in the case of small and highly specialised targets, is that a 
+significant proportion of the highly skilled people who work for the target may 
+leave either before, during or immediately after the merger or acquisition. If this 
+does happen the actual (rather than apparent) value of the target could diminish 
+significantly within a very short time.  
+Another form of speculative rationale is where the acquirer purchases an organi-
+sation with the intention of splitting the acquired organisation into pieces and 
+selling these, or major parts of them, for a price higher than the cost of acquisi-
+tion.  
+The speculative rationale is also high risk in that it is very vulnerable to changes 
+in the environment. Apparently attractive targets, purchased at inflated (premi-
+um) cost, may soon diminish significantly in value if market conditions change.  
+ Management failure rationale. Mergers or acquisitions can sometimes be 
+forced on a company because of management failures. Strategies may be assem-
+bled with errors in alignment, or market conditions may change significantly 
+
+--- Page 26 ---
+Module 1 / Introduction 
+1/6 
+Edinburgh Business School   Mergers and Acquisitions
+during the implementation timescale. The result may be that the original strategy 
+becomes misaligned. It is no longer appropriate in taking the company where it 
+wants to go because the company now wants to go somewhere else. Such strat-
+egy compromises can arise from a number of sources including changing 
+customer demand and the actions of competitors. In such cases, by the time the 
+strategy variance has been detected, the company may be so far off the new 
+desired strategic track that it is not possible to correct it other than by merging 
+with or acquiring another company that will assist in correcting the variance.  
+ Financial necessity rationale. Mergers and acquisitions are sometimes required 
+for reasons of financial necessity. A company could misalign its strategy and 
+suddenly find that it is losing value because shareholders have lost confidence. In 
+some cases the only way to address this problem is to merge with a more suc-
+cessful company or to acquire smaller more successful companies.  
+ Political rationale. The impact of political influences is becoming increasingly 
+significant in mergers and acquisitions. In the UK between 1997 and 2002, the 
+government instructed the merger of a number of large government departments 
+in order to rationalise their operations and reduce operating costs. Government 
+policy also encouraged some large public sector organisations to consider and 
+execute mergers. These policies resulted in the merger of several large health 
+trusts (hospitals financed by central government but under their own manage-
+ment control). By 2002 several large universities were also considering merging 
+as a result of changes in government funding policy. In Australia, some of the 
+‘big four’ banks embarked on an aggressive overseas acquisitions policy because 
+legislation in Australia directly prevented them from merging with each other.  
+1.2.3 
+Merger Drivers 
+Some typical merger drivers are considered below. 
+ A requirement for specialist skills and/or resources. A company sometimes 
+seeks to merge with or acquire another company because the company is keen to 
+acquire a specific skill or resource owned by the other company. This type of 
+merger or acquisition often occurs where a smaller company has developed high-
+value specific skills over a number of years and where it would take an acquiring 
+company a long time and a great deal of investment to develop these same skills. 
+ National and international stock markets. Variations in share prices can act 
+as powerful drivers for mergers and acquisitions. A stock market boom tends to 
+make acquisition activity more attractive because it becomes easier to use the 
+acquirer’s shares as the basis for the transaction rather than cash. Alternatively a 
+falling stock market can lead to potential targets being valued lower, and there-
+fore they become more attractive for a cash purchase.  
+ Globalisation drivers. Increasing globalisation, facilitated to a considerable 
+extent by the growth and development of IT, tends to encourage mergers as the 
+geographical separation between individual companies becomes less of an obsta-
+cle to organisations working together as single entities, both within the same 
+countries and across international boundaries. In the UK several large high street 
+banks have been successfully acquired by a major Australian bank.  
+
+--- Page 27 ---
+ 
+Module 1 / Introduction 
+Mergers and Acquisitions   Edinburgh Business School 
+1/7
+ National and international consolidation. This type of driver occurs where 
+there are compatible companies available for merger or acquisition within the 
+same general geographical area(s). 
+ Diversification drivers. A company may want to diversify into new areas or 
+sectors as a means of balancing the risk profile of its portfolio. Diversification 
+was a primary driver of many mergers and acquisitions in the 1960s, 1970s and 
+1980s. More recently there has been a discernible move away from diversifica-
+tion as a risk-management strategy. Numerous researchers and practitioners have 
+argued that diversification and non-related acquisition does not in fact reduce the 
+risk profile faced by an organisation. This argument is supported by the assertion 
+that the more diversified an organisation is, the less it has developed the specific 
+tools and techniques needed to address individual problems relating to any one 
+of its range of business activities.  
+ Industry and sector pressures. In the 1990s, mergers became very common-
+place in some sectors. Large-scale mergers were particularly important in the oil 
+exploration and production sector. For example, BP and Amoco merged in 1998 
+and Exxon Mobil and Total Petrofina merged in 1999.  
+ Capacity reduction. The total production in a given sector may exceed or be 
+near to demand so that the value of the product is low. In some cases it may be 
+desirable for a company to merge with or acquire a competitor in order to secure 
+a greater degree of control over total sector output. If company A acquires com-
+pany B, company A has achieved greater control over total sector production 
+and also has the opportunity to maintain more of its own production facilities 
+and employees within the new company at the expense of company B.  
+ Vertical integration. Integration is discussed in Section  1.3. A company may 
+attempt to integrate vertically with (for example) a supplier of a key supply in 
+order to reduce the risk profile associated with that supplier, and therefore en-
+sure continuity of supply.  
+ A drive for increased management effectiveness and efficiency. A particular 
+company may have a deficit in management expertise in one or more key areas. 
+Such areas may be ‘key’ because they are central to a new growth area the com-
+pany is seeking to develop, or because they relate to the achievement of new 
+strategic objectives that have just been established.  
+ A drive to acquire a new market or customer base. A merger or acquisition 
+can often provide a fast-track route to new and established markets. If a large 
+high street bank merges with another bank, each bank acquires the customer 
+base of the other bank. In some cases the acquired customer base may represent 
+a market that was previously unavailable For example one bank may have previ-
+ously specialised in business customers and the other bank in domestic 
+customers. The new arrangement provides a more balanced customer base.  
+ A drive to buy into a growth sector or market. Companies sometimes use 
+mergers or acquisitions as a way to enter a desirable new market or sector, par-
+ticularly if they expect that market or sector to expand in the future.  
+
+--- Page 28 ---
+Module 1 / Introduction 
+1/8 
+Edinburgh Business School   Mergers and Acquisitions
+1.3 
+Integration and Conglomeration 
+1.3.1 
+Introduction 
+The various merger waves that have taken place since the 1890s (see section 7) have 
+generated three basic types of merger. In the literature these are referred to as as 
+follows: 
+ vertical integration; 
+ horizontal integration; 
+ conglomeration. 
+Vertical integration is characterised by forward or backward integration along the 
+supply chain (see Module 3). Horizontal integration is characterised by the practice 
+of one company acquiring another company that is active in the same general areas 
+or sectors. Conglomeration is characterised by the acquisition of unrelated compa-
+nies that continue to produce in unrelated sectors. This section briefly introduces 
+these three basic types of merger. 
+1.3.2 
+Vertical Integration 
+Mergers and acquisitions are often used in the pursuit of vertical integration. In its 
+simplest form, vertical integration is the process of manufacturers merging with 
+suppliers or retailers. Major production companies obtain supplies of goods and raw 
+materials from a range of different suppliers. Vertical integration is basically an 
+attempt to reduce the risk associated with suppliers. Note that vertical integration can 
+run in both directions, as shown in  Figure 1.1.  
+ 
+Figure 1.1 
+The concept of vertical integration 
+Retail customers
+Raw materials
+The acquirer
+Forward integration
+Backward integration
+
+--- Page 29 ---
+ 
+Module 1 / Introduction 
+Mergers and Acquisitions   Edinburgh Business School 
+1/9
+Forward integration refers to vertical integration that runs towards the customer 
+base, whereas backward integration refers to vertical integration that runs towards 
+the supplier base. 
+Vertical integration offers a number of obvious advantages. Some of these ad-
+vantages are listed below. 
+ Combined processes. The production processes of most organisations carry 
+fixed price overheads. Typical examples include human resources and IT sup-
+port. Where integration allows these overhead functions to become combined, 
+there is, theoretically, the prospect of increased support function efficiency. 
+ Reduced risk and/or enhanced risk management. Vertical integration allows 
+some of the risk associated with suppliers to be removed. Obvious examples are 
+sudden supply price increased and late and/or defective deliveries. In many 
+ways, the control of supply products and raw materials passes to the acquirer. 
+ Configuration management. The concept of configuration management is 
+covered in the EBS text Project Management. Configuration management is primar-
+ily concerned with the efficient and effective flow of information both within 
+and outside an organisation. Information is generally much more easily and ef-
+fectively controlled within an organisation and vertical integration, therefore, acts 
+to enhance the configuration management system operated by a given organisa-
+tion. 
+ Quality management. This is an increasingly important consideration for most 
+organisations. A fully integrated production system provides the opportunities for 
+an enterprise wide quality management system covering everything from raw mate-
+rials, through production to sales. As with risk management, quality management is 
+more easily executed where supplies, production and sales are contained in-house 
+rather than externally.  
+ Reduced negotiation. As suppliers are acquired the necessity for complex and 
+competitive negotiations decreases. The acquiring company is no longer required 
+to negotiate the best deals with suppliers as the suppliers become part of the par-
+ent organisation. The obvious downside is that the acquired suppliers may lose 
+their competitive edge as they now have a guaranteed market and no longer need 
+to compete at the same level.  
+ Proprietary and intellectual property protection. This can be an important 
+consideration in sectors that are characterised by rapid change and innovation. 
+Organisations that operate under these circumstances have to give away a certain 
+degree of their organisational knowledge when specifying exactly what they want 
+suppliers to produce. In some cases, such specifications can be very revealing, 
+and an uncontained supplier could release proprietary and intellectual property 
+to a third party.  
+ Individualisation. Complete control of suppliers and customers can lead to a 
+particular classification of trading known as brand. In order to achieve and main-
+tain brand status, organisations have to achieve and maintain a close degree of 
+control over all aspects of production and sales so that quality and image can be 
+maintained. The evolution of a brand allows organisations to charge a premium 
+rate for their products.  
+
+--- Page 30 ---
+Module 1 / Introduction 
+1/10 
+Edinburgh Business School   Mergers and Acquisitions
+Vertical integration also implies some disadvantages. By acquiring suppliers the 
+acquirer also eliminates the direct competition that existed previously in the supply 
+market. This can be addressed to some extent by partial vertical integration, 
+where selected key suppliers are integrated while remaining non-key suppliers 
+remain outsourced and open to competitive pricing. There are also brand implica-
+tions in vertical integration. Some companies have successfully integrated along all 
+sections of the production and distribution process. In fast food, for example, a 
+company might integrate all outlets and then award outlets operation to selected and 
+approved subcontractors through a system of controlled franchises. This practice 
+protects the brand from the point of manufacture through distribution and right up 
+to the point of sale to the consumer.  
+Vertical integration is sometimes extended beyond suppliers to include customers 
+as well. Examples of this are particularly pronounced in the interaction between the 
+entertainment and fast food industries. It is common practice for manufacturers of 
+fast foods and drinks to integrate with outlets such as cinemas and fast food 
+restaurants so that only their particular brand of food or drink is offered for sale in 
+that outlet. This practice, if successful, more or less guarantees a steady and depend-
+able outlet for the food or drink product concerned. 
+1.3.3 
+Horizontal Integration 
+Mergers and acquisitions can also be used in order to achieve horizontal integration. 
+Horizontal integration occurs where two companies engaged in essentially the same 
+product or service merge to improve their combined value. As discussed above, 
+horizontal integration has been widespread in the global oil production sector over 
+the past few years. Another example is where automobile distribution companies 
+buy other companies with distribution franchises for ranges of vehicles from other 
+manufacturers.  
+1.3.4 
+Conglomeration  
+Conglomeration mergers occur where the merging companies continue to operate in 
+different sectors and industries. Conglomeration can be a useful approach in 
+spreading business risk across a range of different areas. As conglomerates grow and 
+expand, however, they run the risk of becoming unfocused as their senior manage-
+ment team may be unfamiliar with the new products, services and markets that are 
+introduced as unrelated companies are acquired. In effect, the risks increase rather 
+than decrease.  
+1.4 
+The Merger and Acquisition Lifecycle 
+1.4.1 
+Introduction 
+Most mergers and acquisitions progress through a clearly identifiable lifecycle. In 
+this context, the word ‘lifecycle’ is taken to refer to the changes that take place during the 
+life of an entity. In this context the word ‘entity’ means something that exists in its own 
+
+--- Page 31 ---
+ 
+Module 1 / Introduction 
+Mergers and Acquisitions   Edinburgh Business School 
+1/11
+right, and has its own existence. A merger can be regarded as consisting of two or more 
+entities progressing through a series of identifiable changes or lifecycle points until 
+the merger is complete. More correctly, most mergers and acquisitions do not have 
+a clearly defined completion point. Most organisations, however, do establish a 
+point at which the merger or acquisition is regarded as being complete. After this 
+point the process usually receives no separate resources or funding. Any longer-term 
+costs are simply absorbed into the overall operational expenses of the organisation.  
+This section considers a simplified view of the lifecycle phases of a typical mer-
+ger. The lifecycle phases involved in the implementation process are considered in 
+more detail in Modules 7–10. 
+1.4.2 
+Typical Lifecycle Phases 
+A typical set of merger lifecycle phases is shown in  Figure 1.2. 
+ 
+Figure 1.2 
+The merger lifecycle (simplified) 
+Most mergers commence with an inception phase. In this phase the senior man-
+agers of an organisation initiate the process. Inception is usually followed by a 
+feasibility stage where the underlying financial and logistic areas are considered. The 
+merger may be initiated to improve financial performance or for numerous other 
+Inception
+Feasibility Pre-merger
+negotiations
+Contract
+formulation
+The deal
+Implementation
+Commissioning
+Post-
+implementation
+feedback and
+review
+Underlying
+rationale
+Strategic planners
+Merger consultants
+The implementation team
+Lifecycle phases
+Resources
+Responsibilities
+Pre-merger planning and development
+Pre-merger implementation planning
+Post-merger implementation planning
+Post-merger implementation
+Commitment to proceed
+
+--- Page 32 ---
+Module 1 / Introduction 
+1/12 
+Edinburgh Business School   Mergers and Acquisitions
+reasons (see Section  1.2.3). Most feasibility phases include a detailed analysis of the 
+financial characteristics of the proposed merger together with considerations of 
+likely timescales, synergy generation and other variables. 
+At some point during, or on completion of, the feasibility phase a firm commit-
+ment is made to proceed. At this point the organisation commits itself to the merger 
+and allocates funding and resources as necessary. 
+The pre-merger negotiation phase usually starts right after the commitment to 
+proceed. In this phase the senior managers of the two organisations enter into 
+negotiations in order to reach agreement on the structure and format of the new 
+combined organisation. The negotiation phase often involves external professional 
+consultants such as specialist contract lawyers. In many cases (especially in the US) 
+specialist merger project management consultants are used as negotiation drivers 
+and facilitators. 
+Once the negotiations are complete, the deal itself takes the form of a detailed 
+merger contract. The contract sets out the rights and obligations of each party 
+(organisation) under the terms of the deal. Merger contracts can be extremely 
+complex and are usually developed and finalised by specialist external consultants 
+working with in-house specialists.  
+The implementation process starts as soon as the contract is in place. Implemen-
+tation includes the mechanics of actually making the merger happen. In the UK, 
+implementation is often carried out by in-house project teams, whereas in the US 
+there are growing numbers of external project management implementation 
+consultants who offer integrated services that take implementation through from 
+inception to completion. There is usually some point at which implementation is 
+designated as being complete, at least from an independent project point of view. 
+This point is usually followed by a longer-term phase in which the new organisation 
+acclimatises to the new organisational structure. This phase is usually referred to as 
+commissioning. In some cases the commissioning phase can continue for several 
+years. 
+In reality, merger lifecycles can be considered in much more complex terms. In 
+practice, in order to have sufficient control and response it is usually necessary to 
+subdivide each lifecycle phase into relatively small components. For example, pre-
+merger negotiations might be considered in terms of several different sub-phases, 
+each of which may be separated by control gateways. Each phase of negotiation may 
+have to be concluded and agreed before the negotiation process can move through 
+that gateway and on to the next phase. It is common practice to establish precise 
+performance achievements before each gateway can be passed. It is also common 
+for merger implementation managers (see Module 9 and Module 10) to establish 
+detailed reviews and associated reporting procedures for each phase. These proce-
+dures can be very useful in ensuring that the entire merger remains focused and on 
+track.  
+ Figure 1.2 shows the various specialists that are involved in each stage of the 
+lifecycle. The early stages tend to be dominated by the strategic planners (or 
+equivalent), who are responsible for initiating the merger and for making a strategic 
+evaluation of the decision. Once the decision to merge is made and the commitment 
+
+--- Page 33 ---
+ 
+Module 1 / Introduction 
+Mergers and Acquisitions   Edinburgh Business School 
+1/13
+to proceed is given, the involvement of the strategic planners diminishes, to be 
+replaced by an increased input from the implementation team and the various 
+specialist consultants who may be involved. The external consultants are usually 
+primarily involved in setting up the contracts and the remaining aspects of the deal. 
+Their involvement diminishes when the deal is signed although they often have a 
+long-term lesser involvement. The post-deal work is largely dominated by the 
+integration team. These variations in responsibility involvement are summarised in 
+ Figure 1.3.  
+ 
+Figure 1.3 
+Typical people involvement before and after the deal 
+Where possible the integration team should be involved at the earliest possible 
+time. In general terms, the greater the involvement the implementation people have 
+in planning the merger, the greater the impact they can have on the development of 
+the plans and the more easily they can actually implement the plans after the deal is 
+signed.  
+The integration team consists largely of operational people. Their early involve-
+ment is likely to provide a clearer view of the work required to implement the 
+merger. This clarity contributes significantly to understanding the timescales and 
+magnitude of cost involved, and will in turn lead to more accurate estimates of the 
+true value of the net benefits to be derived. It also militates against over-optimism 
+on the part of the strategic planners and financial advisors.  
+There is a risk involved in this approach in that there is always a possibility that 
+the early negotiations may be unsuccessful and the deal could fall through. If this 
+does happen, the work that the implementation team have put into the early merger 
+planning may be abortive. There is generally a balance or trade-off between reducing 
+Strategic
+planners
+Merger consultants
+Implementation team
+Decision to merge
+Signing
+the deal
+Input
+demand
+Time
+Pre-merger
+evaluation and
+negotiation
+Post-merger
+implementation
+Overall implementation
+
+--- Page 34 ---
+Module 1 / Introduction 
+1/14 
+Edinburgh Business School   Mergers and Acquisitions
+merger risks and unknowns by involving the integration team early and accepting 
+the risk of potentially high, abortive implementation planning costs.  
+1.5 
+Measuring the Success of Mergers and Acquisitions 
+1.5.1 
+Introduction 
+There are numerous ways in which the relative success or failure of a merger can be 
+defined. Success may be defined in terms of short-term measures of performance, 
+such as an improvement in turnover during the year immediately after the merger. 
+Alternatively, success can be considered in terms of long-term measures of perfor-
+mance such as a sustained increase in average share value during the 10 years after 
+the merger. In many cases success is measured in terms of a combination of short- 
+and long-term performance.  
+1.5.2 
+Short-term Measures of Success 
+There are several well-documented short-term effects of a merger announcement. 
+In most cases, when the announcement is made the value of the target company 
+shares will increase while the value of the acquiring company shares will remain 
+static or fall. In many cases the prices of the target company shares will increase 
+prior to the announcement because of pre-announcement rumours. The tendency 
+for the target share price to rise has important implications for the short-term 
+financial success of the acquisition. In many cases the typical share price behaviour 
+discussed can result in the acquirer paying an inflated price for the target. The 
+difference between the pre-rumour value and the merger bid value represents the 
+inflationary premium. As a result, acquired companies are often overvalued at the 
+time of acquisition, particularly where more than one bidder exists.  
+Shareholders may therefore have two different views of success in the context of 
+an acquisition. Target shareholders who sell shares to the acquirer at the premium 
+rate make more money than they otherwise would have done in selling the shares. 
+For target shareholders who sell, the short-term view of the acquisition may be one 
+of success. Shareholders who remain with the target and continue to hold shares of 
+the merged company may have a different long-term view.  
+1.5.3 
+Long-term Measures of Success 
+The longer-term view tends to be more complex and less clearly defined. The 
+literature suggests that long-term performance can depend on a wide range of 
+variables. In straightforward financial terms the long-term success of the merger 
+appears to depend on two main areas: 
+ payment method; 
+ implementation. 
+The merger deal itself is generally financed either by a cash deal, or by a share 
+deal, or by a combination of the two. In a cash deal, existing shareholders sell their 
+shares for a cash sum. In a share deal, existing shareholders receive new shares for 
+
+--- Page 35 ---
+ 
+Module 1 / Introduction 
+Mergers and Acquisitions   Edinburgh Business School 
+1/15
+their existing ones. In some cases the deal may use a combination of both in what is 
+sometimes referred to as a combined deal. Generally, in a buoyant economy more 
+deals will be done through shares as the value of these shares is likely to increase 
+over time. However, companies paying in shares are more likely to have overvalued 
+shares, particularly in the period immediately before the deal. After the deal, the true 
+value of the stock becomes apparent and the value generally falls. As an alternative, 
+companies paying in cash tend to have higher debt levels and undervalued stock. 
+There is evidence to suggest that, in the long term, mergers paid for in shares will 
+perform less well from a shareholder’s point of view than those paid for in cash so 
+long as the economy remains depressed. In a buoyant economy better long-term 
+performance can be expected from companies that have paid for the deal in shares. 
+The other major long-term problem indicated by the literature is ineffective im-
+plementation. Numerous mergers continue the implementation process for much 
+longer than was originally intended. In addition it is common to find that the 
+original implementation plans are changed during the integration process as it 
+becomes apparent that the implementation plans were not sufficiently well thought 
+through, or that the problems associated with full integration were not fully appreci-
+ated during the planning stages. 
+Merger implementation and integration are considered in more detail in the final 
+four modules of this course.  
+1.5.4 
+Some Scenarios for Failure 
+It should be clear that it can be very difficult to say clearly whether a merger or 
+acquisition has been successful, either in the short term or in the long term. The 
+degree of success involved depends on the point of view of the observer, the 
+timescale being considered and determinants of success being used for evaluation. 
+The literature contains many examples of studies carried out on merger success 
+and failure. Some of the literature is contradictory, while other areas of the literature 
+lack clear outcomes and conclusions. There are, however, key issues frequently 
+quoted in the literature upon which there is more or less common agreement. The 
+primary reasons for a relatively unsuccessful outcome appear to be those listed 
+below. 
+ An inability to agree terms. In same cases the proposed merger may never 
+even be implemented because the senior managers in the two companies are 
+unable to agree terms for the merger. In such cases the merger has to be classi-
+fied as a failure because of the cost involved and time wasted. There have been 
+several examples in the UK between 1995 and 2002 of potentially very large 
+mergers that failed to materialise because the senior managers could not agree on 
+the management and organisational structures of the proposed new organisation. 
+An example of such a failure was the proposed UK merger between Abbey Na-
+tional and Bank of Scotland.  
+ Overestimation of the true value of the target. Acquirers often pay more for 
+the target than it is actually worth. In the short term this could result from pre-
+merger target share price rises as discussed earlier. In the longer term the prob-
+
+--- Page 36 ---
+Module 1 / Introduction 
+1/16 
+Edinburgh Business School   Mergers and Acquisitions
+lem could result from an inaccurate assessment of the value of the target, either 
+through poor valuation and due diligence or because the sector within which the 
+company operates is subject to potential large-scale changes. Over-optimistic 
+assessments, particularly where there is more than one bidder, are also common. 
+ The target being too large relative to the acquirer. The literature suggests 
+that the difficulties associated with a merger or acquisition increase as a function 
+of the relative size of the target. This tends to happen because the target be-
+comes more and more difficult to absorb as it becomes relatively larger. A target 
+equal in size to the acquirer can only be effectively absorbed in a merger of 
+equals.  
+ A failure to realise all identified potential synergies. The underlying rationale 
+behind mergers and acquisitions is often influenced by the potential to generate 
+and exploit synergies. These potential synergies may seem achievable during the 
+planning stage, but actually realising and exploiting them can be significantly 
+more difficult than anticipated.  
+ External change. Mergers and acquisition logic is sometimes superseded by 
+events. Even the best strategic planners can occasionally fail to see sudden and 
+large scale changes in the external market. Where such changes do occur, the 
+whole rationale behind the merger or acquisition can quickly dissipate, some-
+times with disastrous results. Examples include companies that acquired dot.com 
+targets just before the relative global collapse in this sector in the late 1990s. 
+ An inability to implement change. A large-scale merger or acquisition 
+generates a considerable amount of change. In a merger of equals all sections of 
+each organisation may be subjected to change of varying degrees. Some compa-
+nies are better than others at designing and implementing change. In some cases 
+there may be a basic inability to plan and manage change effectively. In other 
+cases there may be a deep-rooted cultural opposition to change.  
+ Shortcomings in the implementation and integration processes. Poor 
+implementation frequently shows up in the literature as a primary scenario for 
+failure. The most common reason for poor implementation is inadequate plan-
+ning and control. In mergers and acquisitions generally, the most common 
+specific cause of poor implementation is the lack of an implementation driver. 
+Most implementation processes appear to be carried out without an overriding 
+driving force behind them. The result is that they take longer than originally 
+expected, and the opportunity for generating and exploiting synergies may be 
+lost as a result.  
+ A failure to achieve technological fit. Technological fit and the failure to 
+achieve it are very common problem areas in mergers and acquisitions. Compa-
+nies tend to develop their own technologies and technological approaches to 
+production over a number of years, and each system tends to be highly individu-
+alistic. It can be extremely difficult to merge two entirely different technological 
+systems. In some cases the costs of doing so fully would be prohibitively expen-
+sive.  
+ Conflicting cultures. The incompatibility of corporate cultures is another 
+classical scenario for failure. Cultures, like technologies, tend to evolve over a 
+
+--- Page 37 ---
+ 
+Module 1 / Introduction 
+Mergers and Acquisitions   Edinburgh Business School 
+1/17
+long period of time and are highly individualistic. It is very common to observe 
+the formation of conflict when two corporate cultures are thrown together with 
+inadequate preparation.  
+ A weak central core in the target. Targets may be unfocused or there may be 
+problems with the central or core elements in the company. In such cases the 
+acquisition may turn out to be less valuable than was originally thought. Typical 
+examples were the acquisitions of the apparent high-growth dot.com companies 
+of the late 1990s. 
+1.6 
+A Brief History of Mergers and Acquisitions 
+1.6.1 
+Introduction 
+Mergers occur in waves. There have been five clear waves since the end of the 
+nineteenth century. Each wave had different characteristics and was generated by 
+different combinations of events. However, there are remarkable similarities 
+between the first wave and the current fifth wave. It is important to be able to 
+understand merger wave patterns because they provide a valuable insight into how 
+the current fifth wave may evolve.  
+1.6.2 
+Merger Waves 
+It is important to understand that mergers and acquisitions are very much driven by 
+external forces. In addition, a cursory examination of the history of mergers and 
+acquisitions reveals that they tend to occur in waves. There appears to be a direct 
+relationship between merger activity and external economic forces such as national 
+events of major significance and variations in the global economy. 
+ The railroad wave (approximately 1895–1905). In the United States there was 
+a first major wave of mergers between 1890 and 1910. This wave was fuelled by 
+the completion of the transcontinental railway system that linked cities across the 
+entire US for the first time. This continental transport system created an inte-
+grated national market in the US. Rail links provided the opportunity for local or 
+regional companies to evolve into fully national companies. This wave is some-
+times referred to as the railroad wave. It was characterised by both vertical and 
+horizontal integration mergers. Some global brand names were established 
+through the horizontal integration of leading producers during this wave. Exam-
+ples include Coca-Cola and General Electric.  
+ The automobile wave (approximately 1918–1930). The next major merger 
+wave in the US was generated by the expansion in the general availability of au-
+tomobiles in the 1920s and early 1930s. Whereas the railway system had linked 
+cities together across the continent, the widespread availability and affordability 
+of automobiles allowed local customers to gain access to a larger number of local 
+and regional outlets. Automobiles also enabled companies to make much more 
+use of professional sales teams. The widespread use of trucks and delivery vans 
+stimulated companies based particularly in food and food processing. This wave 
+is sometimes referred to as the automobile wave. It was again characterised by 
+
+--- Page 38 ---
+Module 1 / Introduction 
+1/18 
+Edinburgh Business School   Mergers and Acquisitions
+a high level of vertical and horizontal integration. The most prominent feature 
+was perhaps the level of horizontal integration among secondary (as opposed to 
+primary) producers in heavy industry and the financial sectors.  
+ The conglomerate wave (approximately 1955–1970). The 1920s wave was 
+followed by the 1960s wave. This wave is sometimes referred to as the con-
+glomerate wave. Legislation in the US at that time made it difficult for 
+companies to integrate horizontally or vertically. At the same time the dynamic 
+US economy provided the incentive for rapid growth. This induced companies 
+to form mergers and acquisitions with other companies operating outside the 
+acquirer’s normal sphere of operations. This wave was characterised by a large 
+number of management problems as acquirers experienced difficulty in manag-
+ing their newly acquired assets, and there were numerous problems and failures. 
+ The mega-merger wave (approximately 1980–1990). The 1980s was a decade 
+of rising share prices and a very buoyant economy. Relatively low interest rates 
+made acquisition finance readily available. This fuelled a considerable number of 
+cash-financed acquisitions of firms that were relatively low performers. There 
+were examples of so called mega-mergers, which were indeed carried out on a 
+very large scale by the standards of that time. The wave itself is sometimes re-
+ferred to as the mega-mergers wave. Successive US and UK governments 
+deregulated numerous sectors and relaxed anti-merger and merger-control legis-
+lation. These actions actively encouraged large-scale horizontal mergers. In the 
+US competition was significantly reduced in a number of industries, including oil 
+production and chemicals.  
+ The globalisation wave (approximately 1994 to the present). The current 
+globalisation wave started in the mid 1990s and expanded rapidly though the last 
+few years of the twentieth century and into the early years of the twenty-first 
+century. These relatively few but extremely important years were characterised by 
+a number of very significant facts.  
+ Market growth was slow. Mergers and acquisitions allowed companies to 
+grow in otherwise slow markets. 
+ Interest rates were very low. Companies were able to take out relatively large 
+loans at much lower interest rates than would have been possible just a few 
+years previously. The relatively low cost of finance made mergers and acquisi-
+tions more of an economic reality for a wider number of companies.  
+ Supply exceeded demand in most industries, putting pressure on prices and 
+generating a necessity to reduce costs. One way of achieving this was through 
+the scale economies that could be generated by successful mergers and acqui-
+sitions. 
+ By the late 1990s many industries were mature or close to being mature; they 
+realised that scale economies through mergers and acquisitions provided a vi-
+able way of reducing costs and increasing competitiveness.  
+ The growth of computers and IT made an increasing impact on company 
+operations. Geographical separation and international frontiers became less 
+important as the Internet expanded and crossed traditional trade borders. 
+
+--- Page 39 ---
+ 
+Module 1 / Introduction 
+Mergers and Acquisitions   Edinburgh Business School 
+1/19
+ Companies began to realise that the global marketplace opens up access to 
+both buyers and sellers of products and services. The increase on the supply 
+side places a downward pressure on prices and therefore on costs.  
+The current wave is sometimes referred to as the globalisation wave. It is char-
+acterised by very high growth in new technologies and new communication 
+media including the Internet. In generating the fifth merger wave it can generally 
+be said that companies were exposed to global competition; many of the old 
+trade barriers weakened or disappeared all together. In many countries public 
+utilities were privatised, and global competition generated pressures for deregula-
+tion in many areas. The net result was a blurring of traditional trade boundaries 
+and sectors. The result was an increasing pressure on companies to change. 
+Companies generally had to reduce costs and produce higher-quality, more cus-
+tomer-oriented products. These factors combined to produce a generally 
+favourable environment for mergers and acquisitions.  
+The fifth wave is ongoing and is remarkably similar in many ways to the first 
+wave. It will be recalled that the first wave was propagated by the completion of the 
+railroad network. This was effectively the result of new technology opening up a 
+nationwide market for goods. In the globalisation wave, new technology in the form 
+of computers, IT and the Internet is opening up global markets. The globalisation 
+imperative is assisted by a number of associated initiatives, such as: 
+ the increasingly global view taken by companies; 
+ the expansion of the Internet and electronic communications; 
+ the privatisation of previously state-owned bodies; 
+ the development of common currencies such as the euro; 
+ the deregulation of financial institutions; 
+ the relaxation of regulations relating to mergers and acquisitions; 
+ the increasing liberalisation of world trade and investment; 
+ the formation of trading blocs such as the EU. 
+International mergers create companies with an international scale and effectively 
+link the world capitalist system more firmly together.  
+Learning Summary 
+The text has considered the following areas that candidates should now be familiar 
+with 
+ what a merger is and how it differs from an acquisition; 
+ some of the reasons why companies merge; 
+ the underlying merger rationales; 
+ what a merger driver is; 
+ what the primary merger drivers are; 
+ the difference between horizontal integration, vertical integration and conglom-
+eration; 
+ the basic merger lifecycle and lifecycle phases; 
+
+--- Page 40 ---
+Module 1 / Introduction 
+1/20 
+Edinburgh Business School   Mergers and Acquisitions
+ some basic measures of success for mergers; 
+ the difference between long-term and short-term measures of success; 
+ the basic scenarios for failure; 
+ the concept of merger waves and the major waves that have occurred since 1900. 
+It should be appreciated that mergers and acquisitions are complex high-risk 
+operations. Even very large companies with previous experience of mergers and 
+acquisitions face dangers during the merger/acquisition process, with the probability 
+that the eventual outcome cannot be classified as entirely successful.  
+In the preceding sections, the text has sought to provide an overview of the key 
+influences. As in most areas of management, there will be exceptions to the general 
+‘rules‘. However, these tend to be small in numbers. 
+The Concept of Mergers and Acquisitions 
+ Mergers and acquisitions vary widely between countries.  
+ In most European countries and the US there are government controls on 
+mergers and acquisitions where the combination of two or more companies 
+can have an impact on the overall level of competition within a particular 
+market. This applies especially where the merger or acquisition would give 
+the new company the ability to alter or fix the price in a particular sector.  
+ Employment law can be a major consideration in some EU countries. There 
+are significant differences in the level of employee rights that are recognised 
+between the various member states.  
+ For some reason, mergers and acquisitions appear to be mainly an Anglo-
+Saxon phenomenon. They are far more frequent in Anglo-Saxon countries 
+than they are in non Anglo-Saxon countries.  
+ A merger or an acquisition in a company sense can be defined as the 
+combination of two or more companies into one new company or corpora-
+tion. 
+ The main difference between a merger and an acquisition lies in the way in 
+which the combination of the two companies is brought about. 
+ In a merger there is usually a process of negotiation involved between the 
+two companies prior to the combination taking place.  
+ In an acquisition, the negotiation process does not necessarily take place.  
+ In most cases the acquirer acquires the target by buying its shares. The 
+acquirer buys shares from the target’s shareholders up to a point where it 
+becomes the owner. Achieving ownership may require purchase of all of the 
+target shares or a majority of them. Different countries have different laws 
+and regulations on what defines target ownership.  
+ Acquisitions can be friendly or hostile. In the case of a friendly acquisition 
+the target is willing to be acquired. The target may view the acquisition as an 
+opportunity to develop into new areas and use the resources offered by the 
+acquirer.  
+ In the case of a hostile acquisition, the target is opposed to the acquisition. 
+Hostile acquisitions are sometimes referred to as hostile takeovers.  
+
+--- Page 41 ---
+ 
+Module 1 / Introduction 
+Mergers and Acquisitions   Edinburgh Business School 
+1/21
+ In hostile takeovers the acquirer may attempt to buy large amounts of the 
+target’s shares on the open market. The problem with this action is that 
+target share prices will tend to increase in value as soon as any large-scale 
+purchases are detected.  
+ In both friendly and hostile takeovers the decision on whether or not to sell 
+target shares lies with the shareholders. If all or a large proportion of target 
+shareholders agree to sell, ownership will be transferred to the acquirer.  
+Why Companies Merge and Acquire 
+ Companies sometimes merge or acquire in order to try and improve long-
+term competitive advantage in support of strategic goals.  
+ The strategic rationale makes use of the merger or acquisition in achieving a 
+set of strategic objectives.  
+ The strategic rationale may also be fundamentally defensive. If there are 
+several large mergers in a particular sector, a non-merged company may be 
+pressured into merging with another non-merged company in order to main-
+tain its competitive position.  
+ The speculative rationale arises where the acquirer views the acquired 
+company as a commodity.  
+ Another form of speculative rationale is where the acquirer purchases an 
+organisation with the intention of splitting the acquired organisation into 
+pieces and selling these, or major parts of them, for a price that is higher 
+than the cost of acquisition.  
+ Mergers or acquisitions can sometimes be forced on a company because of 
+management failures. Strategies may be assembled with errors in alignment, 
+or market conditions may change significantly during the implementation 
+timescale. The result may be that the original strategy becomes misaligned. It 
+is no longer appropriate in taking the company where it wants to go because 
+the company now wants to go somewhere else. 
+ Such strategy compromises can arise from a number of sources, including 
+changing customer demand and the actions of competitors. In such cases, by 
+the time the strategy variance has been detected the company may be so 
+far off the new desired strategic track that it is not possible to correct it 
+other than by merging with or acquiring another company that will assist in 
+correcting the variance.  
+ Mergers and acquisitions are sometimes required for reasons of financial 
+necessity. A company could misalign its strategy and suddenly find that it is 
+losing value because shareholders have lost confidence. In some cases the 
+only way to address this problem is to merge with a more successful compa-
+ny or to acquire smaller more successful companies.  
+ Government and other public sector bodies may sometimes be instructed to 
+merge as part of long-term government initiatives.  
+ Merger drivers are underlying events or characteristics that act to drive 
+companies towards mergers or acquisitions. Typical examples include: 
+
+--- Page 42 ---
+Module 1 / Introduction 
+1/22 
+Edinburgh Business School   Mergers and Acquisitions
+ a requirement for a specific skill or resource;  
+ the stock market;  
+ globalisation;  
+ geographical consolidation;  
+ diversification;  
+ sector pressures;  
+ capacity reduction;  
+ vertical integration;  
+ increased management efficiency;  
+ a desire to acquire a new market or customer base; 
+ the need to buy into a growth sector or market.  
+Integration and Conglomeration 
+ The various merger waves that have taken place since the 1890s have 
+generated three basic types of merger. In the literature these are referred to 
+as: 
+ vertical integration; 
+ horizontal integration; 
+ conglomeration. 
+ Vertical integration is characterised by forward or backward integration 
+along the supply chain.  
+ Horizontal integration is characterised by the practice of one company 
+acquiring another company that is active in the same general areas or sec-
+tors.  
+ Conglomeration is characterised by the acquisition of unrelated companies 
+that continue to produce in unrelated sectors. This section briefly introduces 
+these three basic types of merger. 
+ Vertical integration offers a number of obvious advantages. Some of these 
+advantages are: 
+ combined processes; 
+ reduced risk; 
+ reduced negotiation and shopping around; 
+ proprietary knowledge protection. 
+The Merger and Acquisition Lifecycle 
+ Most mergers and acquisitions progress through a clearly identifiable lifecy-
+cle. In this context, the word ‘lifecycle’ is taken to refer to the changes that 
+take place during the life of an entity.  
+ Most mergers commence with an inception phase. In this phase the senior 
+managers of an organisation initiate the process.  
+ Inception is usually followed by a feasibility stage, where the underlying 
+financial and logistic considerations are considered. 
+
+--- Page 43 ---
+ 
+Module 1 / Introduction 
+Mergers and Acquisitions   Edinburgh Business School 
+1/23
+ At some point during or on completion of the feasibility phase a firm 
+commitment is made to proceed. At this point the organisation commits 
+itself to the merger and allocates funding and resources as necessary. 
+ The pre-merger negotiation phase usually starts right after the commitment 
+to proceed. In this phase the senior managers of the two organisations enter 
+into negotiations in order to reach agreement on the structure and format 
+of the new combined organisation.  
+ Once the negotiations are complete the deal itself takes the form of a 
+detailed merger contract. The contract sets out the rights and obligations of 
+each party (organisation) under the terms of the deal.  
+ The implementation process starts as soon as the contract is in place. 
+Implementation includes the mechanics of actually making the merger hap-
+pen.  
+Measuring the Success of Mergers and Acquisitions 
+ A significant proportion of mergers appear to fail in terms of short-term 
+financial value creation. 
+ There is some evidence to suggest that merger success or failure should be 
+measured in longer-term variables. 
+ Many mergers appear to fail because of poor implementation. 
+ Typical reasons for merger failure include: 
+ an inability to agree terms;  
+ overestimation of the true value of the target;  
+ the target being too large relative to the acquirer;  
+ a failure to realise all identified potential synergies;  
+ an inability to implement change;  
+ shortcomings in the implementation and integration processes;  
+ a failure to achieve technological fit;  
+ conflicting cultures;  
+ a weak central core in the target.  
+A Brief History of Mergers and Acquisitions 
+ Mergers occur in waves. There have been five clear waves since the end of 
+the nineteenth century.  
+ Each wave had different characteristics and was generated by different 
+combinations of events. 
+ The first wave was the railroad wave. It was driven by the development of 
+the transcontinental railway line network in the US between 1985 and 1905. 
+ The second wave was the automobile wave. This wave was driven by the 
+widespread availability and use of automobiles between 1918 and 1930. 
+ The third wave was the conglomeration wave. This was driven by a combina-
+tion of legislation and the dynamic US economy. 
+
+--- Page 44 ---
+Module 1 / Introduction 
+1/24 
+Edinburgh Business School   Mergers and Acquisitions
+ The fourth wave was the mega-merger wave. This wave reached its peak in 
+the late 1980s. It was largely driven by the maturity of a number of large 
+industries coupled with over-capacity and a need to reduce costs. 
+ The current wave is the globalisation wave and is driven largely by IT. 
+Review Questions 
+These questions are designed to allow you to evaluate your general understanding of
+the subject areas quickly. You should attempt these questions as quickly as possible. You
+should be able to answer the majority of them correctly if you have developed a
+reasonable knowledge of the subject areas.  
+True/False Questions 
+The Concept of Mergers and Acquisitions 
+1.1 
+This text is primarily concerned with mergers and acquisitions from a strategic point of 
+view. T or F? 
+1.2 
+The underlying rationale behind mergers and acquisitions is often affected by the actions 
+of regulators. T or F? 
+1.3 
+Employment law can critically affect mergers in some countries. T or F? 
+1.4 
+The main difference between a merger and an acquisition lies in the way in which the 
+combination of the two companies is brought about. T or F? 
+1.5 
+In an acquisition there is usually a process of negotiation involved between the two 
+companies prior to the combination taking place. T or F? 
+1.6 
+Mergers are usually hostile. T or F? 
+1.7 
+Most acquisitions are financed using cash. T or F? 
+1.8 
+Acquisitions can generally be classified as friendly or hostile. T or F? 
+Why Companies Merge and Acquire 
+1.9 
+The strategic rationale is only one of a series of alternative rationales. T or F? 
+1.10 The strategic rationale is always less risky than the speculative rationale. T or F? 
+1.11 Merger drivers are characteristics or events that drive companies towards mergers or 
+acquisitions. T or F? 
+
+--- Page 45 ---
+ 
+Module 1 / Introduction 
+Mergers and Acquisitions   Edinburgh Business School 
+1/25
+1.12 The stock market could be an example of a merger driver. T or F? 
+Integration and Conglomeration 
+1.13 Vertical integration is characterised by forward or backward integration along the supply 
+chain.  
+T or F? 
+1.14 Horizontal integration is characterised by the practice of one company acquiring 
+another company that is active in the same general areas or sectors. T or F? 
+1.15 Conglomeration is characterised by the acquisition of unrelated companies that 
+continue to produce in unrelated sectors. T or F? 
+1.16 In its simplest form, vertical integration is the process of manufacturers merging with 
+suppliers or retailers. T or F? 
+1.17 Vertical integration can be both forward and backward. T or F? 
+The Merger and Acquisition Lifecycle 
+1.18 Most mergers and acquisitions can be considered as projects with identifiable lifecycle 
+stages.  
+T or F? 
+1.19 The commitment to proceed usually comes right after the pre-merger negotiations.  
+T or F? 
+1.20 The implementation team should not be involved in the planning process until the latest 
+possible time. T or F? 
+Measuring the Success of Mergers and Acquisitions 
+1.21 There is no single method for evaluating the success or otherwise of a merger or 
+acquisition.  
+T or F? 
+1.22 In purely financial terms most mergers are a success, at least in the short term. T or F? 
+1.23 Mergers never fail because of an inability to agree terms. T or F? 
+1.24 The actual value of targets is often overestimated, resulting in the payment of an 
+inflationary premium. T or F? 
+
+--- Page 46 ---
+Module 1 / Introduction 
+1/26 
+Edinburgh Business School   Mergers and Acquisitions
+A Brief History of Mergers and Acquisitions 
+1.25 Mergers appear to happen in waves. T or F? 
+1.26 The first wave was the automobile wave. T or F? 
+1.27 The current (globalisation) wave is the fourth wave. T or F? 
+1.28 One driver of the current (globalisation) wave was the growth and spread of IT. T or F? 
+Multiple-Choice Questions 
+The Concept of Mergers and Acquisitions 
+1.29 In most EU countries there are: 
+A.  no controls on mergers and acquisitions.
+ 
+B.  some controls on mergers and acquisitions.
+ 
+C.  general rules subject to individual application consideration.
+ 
+D.  precise and clearly defined rules on mergers and acquisitions.
+ 
+1.30 The degree of board–board negotiation in a hostile acquisition is generally: 
+I. less than in a friendly acquisition. 
+II. largely non-existent. 
+III. extensive and varied. 
+IV. about the same as in a merger of equals. 
+Which of the above is/are true? 
+A.  I only.
+ 
+B.  I and II.
+ 
+C.  I, II and III.
+ 
+D.  III and IV.
+ 
+1.31 In many cases, as soon as a major acquisition is announced the target’s share prices: 
+A.  double or treble in value. 
+ 
+B.  increase significantly.
+ 
+C.  remain static.
+ 
+D.  decrease.
+ 
+
+--- Page 47 ---
+ 
+Module 1 / Introduction 
+Mergers and Acquisitions   Edinburgh Business School 
+1/27
+1.32 Hostile takeovers can be funded by: 
+I. cash only. 
+II. shares only. 
+III. cash and shares.  
+IV. other incentives. 
+Which of the above is/are true? 
+A.
+I only.
+ 
+B.
+I and II. 
+ 
+C. I, II and IV. 
+ 
+D. I, II, III and IV.
+ 
+Why Companies Merge and Acquire 
+1.33 Companies often merge or acquire on the basis of an underlying 
+I. strategic rationale. 
+II. speculative rationale. 
+III. management failure rationale. 
+IV. financial necessity rationale. 
+Which of the above is/are true? 
+A.
+I only.
+ 
+B.
+I and II. 
+ 
+C. I, II and IV. 
+ 
+D. I, II, III and IV.
+ 
+1.34 Mergers and acquisitions conducted under the strategic rationale are usually carried out 
+with the objective of: 
+I. adding long-term competitive advantage. 
+II. increasing the value of the target with the intention of future resale. 
+III. responding to the demands of immediate financial shortcomings. 
+IV. complying with regulator requirements. 
+Which of the above is/are true? 
+A.
+I only.
+ 
+B.
+I and II. 
+ 
+C. I, III and IV. 
+ 
+D. I, II, III and IV.
+ 
+1.35 The following are examples of strategic merger drivers: 
+I. enhanced vertical integration. 
+II. acquisition of a new customer base.  
+III. increased management efficiency. 
+IV. increased short-term resale profit. 
+Which of the above is/are true? 
+A.
+I only.
+ 
+B.
+I and II. 
+ 
+C. I, II and III. 
+ 
+D. I, II, III and IV.
+ 
+
+--- Page 48 ---
+Module 1 / Introduction 
+1/28 
+Edinburgh Business School   Mergers and Acquisitions
+Integration and Conglomeration 
+1.36 Vertical integration offers advantages based on: 
+I. combined processes. 
+II. configuration management. 
+III. quality management. 
+IV. scale economies.  
+Which of the above is/are true? 
+A.  I only.
+ 
+B.  I and II.
+ 
+C.  I, II and III.
+ 
+D.  I, II, III and IV.
+ 
+1.37 Generally conglomeration is now: 
+A.  becoming increasingly popular.
+ 
+B.  becoming marginally more popular.
+ 
+C.  becoming less poplar.
+ 
+D.  more or less as popular as it always has been.
+ 
+1.38 One of the man reasons for de-conglomerisation is to 
+A.  reduce business risk.
+ 
+B.  increase business risk at a premium.
+ 
+C.  increase strategic focus. 
+ 
+D.  decrease strategic focus. 
+ 
+The Merger and Acquisition Lifecycle 
+1.39 Generally major mergers have 
+A.   no definable lifecycle.
+ 
+B.   clear lifecycle stages although with random events.
+ 
+C.   random lifecycle phases with no consistent sequence of events.
+ 
+D.   clear lifecycle phases with a standard set of sub-phases and work packages. 
+ 
+1.40 In terms of lifecycle phases 
+I. inception usually comes right after feasibility. 
+II. feasibility comes right before the deal. 
+III. implementation comes right before commissioning. 
+IV. contract formulation comes right after the deal. 
+Which of the above is/are true? 
+A.  I only.
+ 
+B.  I and II.
+ 
+C.  III only.
+ 
+D.  IV only.
+ 
+
+--- Page 49 ---
+ 
+Module 1 / Introduction 
+Mergers and Acquisitions   Edinburgh Business School 
+1/29
+Measuring the Success of Mergers and Acquisitions 
+1.41 In terms of short-term financial gain by the acquirer, most mergers or acquisitions 
+A.
+are very successful. 
+ 
+B.
+are somewhat successful.
+ 
+C. break even. 
+ 
+D. fail.
+ 
+1.42 Generally, in terms of short-term financial gains 
+A.
+acquirer shareholders make the most.
+ 
+B.
+target shareholders make the most. 
+ 
+C. acquirer and target shareholders do equally well.
+ 
+D. acquirer and target shareholders both lose small amounts. 
+ 
+A Brief History of Mergers and Acquisitions 
+1.43 Most analysts would agree that in business history (including the present wave) there 
+have been 
+A.
+two major merger waves.
+ 
+B.
+three major merger waves.
+ 
+C. four major merger waves.
+ 
+D. five major merger waves.
+ 
+1.44 The current globalisation wave is driven largely by the continued evolution of 
+A.
+transport systems. 
+ 
+B.
+language compatibility.
+ 
+C. population growth. 
+ 
+D. information technology and the Internet. 
+ 
+1.45 The current globalisation wave has a number of drivers including 
+I. sustained low interest rates. 
+II. sustained low growth. 
+III. supply exceeding demand in many industries. 
+IV. the continued sustained development in computers, IT and the Internet. 
+Which of the above is/are true? 
+A.
+I only.
+ 
+B.
+I and II. 
+ 
+C. I, II and III. 
+ 
+D. I, II, III and IV.
+ 
+ 
+
+--- Page 50 ---

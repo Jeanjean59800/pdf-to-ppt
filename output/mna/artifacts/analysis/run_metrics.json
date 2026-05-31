@@ -1,0 +1,79 @@
+{
+  "counters": {
+    "analysis.coverage.repairs": 3,
+    "analysis.coverage.tags_missing": 0,
+    "analysis.coverage.tags_total": 16,
+    "analysis.section_plan.calls": 1,
+    "analysis.section_plan.success": 1,
+    "analysis.section_slides.calls": 5,
+    "analysis.section_slides.deterministic_fallback": 1,
+    "analysis.section_slides.success": 4,
+    "local_llm.inference.calls": 6,
+    "local_llm.loads": 1,
+    "local_llm.reused": 5,
+    "pipeline.sections.contexts_built": 5,
+    "rag.chunking.calls": 1,
+    "rag.chunks.created": 56,
+    "rag.embedding.calls": 11,
+    "rag.embedding.texts_total": 66,
+    "rag.index_build.calls": 1,
+    "rag.search.calls": 10
+  },
+  "timings": {
+    "local_llm.inference.seconds": {
+      "count": 6,
+      "total_seconds": 2144.3757,
+      "avg_seconds": 357.396
+    },
+    "local_llm.load.seconds": {
+      "count": 1,
+      "total_seconds": 5.0435,
+      "avg_seconds": 5.0435
+    },
+    "rag.embedding.seconds": {
+      "count": 11,
+      "total_seconds": 11.9306,
+      "avg_seconds": 1.0846
+    },
+    "rag.index_build.seconds": {
+      "count": 1,
+      "total_seconds": 0.0002,
+      "avg_seconds": 0.0002
+    },
+    "rag.search.seconds": {
+      "count": 10,
+      "total_seconds": 0.0035,
+      "avg_seconds": 0.0004
+    },
+    "stage.analyze_document.seconds": {
+      "count": 1,
+      "total_seconds": 2162.0333,
+      "avg_seconds": 2162.0333
+    },
+    "stage.build_pptx.seconds": {
+      "count": 1,
+      "total_seconds": 8.2727,
+      "avg_seconds": 8.2727
+    },
+    "stage.extract_text.seconds": {
+      "count": 1,
+      "total_seconds": 0.145,
+      "avg_seconds": 0.145
+    },
+    "stage.extract_visuals.seconds": {
+      "count": 1,
+      "total_seconds": 26.7753,
+      "avg_seconds": 26.7753
+    },
+    "stage.generate_plots.seconds": {
+      "count": 1,
+      "total_seconds": 0.0002,
+      "avg_seconds": 0.0002
+    },
+    "stage.rag_build.seconds": {
+      "count": 1,
+      "total_seconds": 11.7284,
+      "avg_seconds": 11.7284
+    }
+  }
+}

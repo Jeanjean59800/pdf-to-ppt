@@ -1,0 +1,35 @@
+[
+  {
+    "filename": "scatter_example.png",
+    "plot": {
+      "kind": "scatter",
+      "title": "Revenue vs Margin",
+      "x_label": "Revenue",
+      "y_label": "Margin",
+      "series": [
+        {
+          "x": [100, 120, 150, 180],
+          "y": [12, 14, 18, 21],
+          "label": "Products",
+          "color": "#4C78A8"
+        }
+      ]
+    }
+  },
+  {
+    "filename": "bar_example.png",
+    "plot": {
+      "kind": "bar",
+      "title": "Scores by Team",
+      "x_label": "Team",
+      "y_label": "Score",
+      "series": [
+        {
+          "x": ["A", "B", "C"],
+          "y": [10, 7, 12],
+          "color": "#F58518"
+        }
+      ]
+    }
+  }
+]
